@@ -36,3 +36,5 @@
 36: hellmanns_mayo_full_fat (IMG_2309)
 37: great_value_havarti_cheese_slices (IMG_2310)
 38: mala_wangzi (IMG_2320)
+39: clover_leaf_tomato_onion_flavor_can_tuna (IMG_2351)
+40: clif_builders_chocolate_peanut_butter_68g (IMG_2352)

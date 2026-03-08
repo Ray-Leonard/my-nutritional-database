@@ -38,12 +38,14 @@
 - [36 Hellmanns Mayo Full Fat](#36-hellmanns-mayo-full-fat)
 - [37 Great Value Havarti Cheese Slices](#37-great-value-havarti-cheese-slices)
 - [38 Mala Wangzi](#38-mala-wangzi)
+- [39 Clover Leaf Tomato Onion Flavor Can Tuna](#39-clover-leaf-tomato-onion-flavor-can-tuna)
+- [40 Clif Builders Chocolate Peanut Butter](#40-clif-builders-chocolate-peanut-butter)
 
 ---
 
 # 🥗 Master Nutritional Database
 
-> **Last Updated:** 2026-03-08 18:10
+> **Last Updated:** 2026-03-08 19:02
 
 > This file is auto-generated from `individual_food_data/`. Do not edit manually.
 
@@ -946,5 +948,47 @@
 | Potassium     | 0mg         | 0%  | -            |
 | Calcium       | 0mg         | 0%  | -            |
 | Iron          | 0mg         | 0%  | -            |
+
+---
+
+<a name="39-clover-leaf-tomato-onion-flavor-can-tuna"></a>
+
+## 39 Clover Leaf Tomato Onion Flavor Can Tuna
+
+| Nutrient | Per Serving | DV% | Component of |
+|----------|-------------|-----|---------------|
+| Serving Size | 1 can (85 g) | - | - |
+| Calories | 90 | - | - |
+| Fat | 1.5 g | 2% | - |
+| Saturated Fat | 0.4 g | 2% | Fat |
+| Trans Fat | 0 g | - | Fat |
+| Carbohydrates | 2 g | - | - |
+| Sugars | 2 g | 2% | Carbohydrates |
+| Protein | 15 g | - | - |
+| Cholesterol | 35 mg | - | - |
+| Sodium | 250 mg | 11% | - |
+
+---
+
+<a name="40-clif-builders-chocolate-peanut-butter"></a>
+
+## 40 Clif Builders Chocolate Peanut Butter
+
+| Nutrient | Per Serving | DV% | Component of |
+|----------|-------------|-----|---------------|
+| Serving Size | 68g | - | - |
+| Calories | 290 | - | - |
+| Fat | 11g | 15% | - |
+| Saturated Fat | 6g | 30% | Fat |
+| Trans Fat | 0g | - | Fat |
+| Carbohydrates | 29g | - | - |
+| Fiber | 2g | 7% | Carbohydrates |
+| Sugar | 17g | 17% | Carbohydrates |
+| Protein | 20g | - | - |
+| Cholesterol | 0mg | - | - |
+| Sodium | 340mg | 15% | - |
+| Potassium | 225mg | 5% | - |
+| Calcium | 40mg | 3% | - |
+| Iron | 3.5mg | 19% | - |
 
 ---

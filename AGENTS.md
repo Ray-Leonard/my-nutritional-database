@@ -72,6 +72,7 @@ def process_image(path: str) -> dict[str, float]:
   - Images: `[ID]_[food_name]_(ORIGINAL_ID).jpg` (e.g., `15_blueberry_oat_bar_30g_(IMG_1997).jpg`)
   - [ID] is the index from `all_food_names.md` (e.g., 01, 02, ... 15).
   - (ORIGINAL_ID) is the original IMG suffix.
+- H1 title in individual `.md` files for each processed food: Use human-readable Title Case (e.g., `# Clif Bar White Chocolate Macadamia Nut`), NOT snake_case.
 
 ### Error Handling
 
@@ -113,6 +114,7 @@ No `.cursor/rules/` or `.github/copilot-instructions.md` found.
 ## Renaming Protocol
 
 When a user requests to rename a food product:
+
 1. Identify the current ID and snake_case name.
 2. Update the entry in `all_food_names.md`.
 3. Rename the Markdown file: `individual_food_data/[ID]_[old_name].md` -> `individual_food_data/[ID]_[new_name].md`.
