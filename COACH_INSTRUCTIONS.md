@@ -43,6 +43,13 @@ If the user's reported amount differs from the serving size in the database:
 scaled_nutrient = (reported_grams / serving_size_grams) * nutrient_value_per_serving
 ```
 
+**Handling Units/Counts:**
+If the user reports a quantity in units (e.g., "1 bun", "2 slices") instead of grams:
+1. Look up the "Serving Size" in `NUTRITION_MASTER.md` for that item.
+2. If the serving size is defined as a unit (e.g., "1 bun (60g)"), extract the gram weight.
+3. Use that weight to perform the standard calculation.
+4. If no gram weight is available for the unit, assume 1 unit = 1 serving.
+
 ## Handling Variations
 
 The user may specify variations to a menu item. Always adjust the calculation accordingly:
