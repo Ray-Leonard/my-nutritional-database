@@ -1,4 +1,4 @@
-# hellmanns_mayo_full_fat
+# Hellmanns Mayo Full Fat
 
 | Nutrient            | Per Serving    | DV% | Component of        |
 | ------------------- | -------------- | --- | ------------------- |

@@ -18,7 +18,7 @@
 - [16 Pork and Vegetable Dumplings](#16-pork-and-vegetable-dumplings)
 - [17 Lays Ketchup Chips](#17-lays-ketchup-chips)
 - [18 Lanzhou Dry Noodles](#18-lanzhou-dry-noodles)
-- [19 haorenjia_sesame_peanut_mixing_sauce](#19-haorenjia_sesame_peanut_mixing_sauce)
+- [19 Haorenjia Sesame Peanut Mixing Sauce](#19-haorenjia-sesame-peanut-mixing-sauce)
 - [20 Heinz Chili Style Beans](#20-heinz-chili-style-beans)
 - [21 Ritz Cheese Cracker Bits](#21-ritz-cheese-cracker-bits)
 - [22 Great Value Can Tuna in Water](#22-great-value-can-tuna-in-water)
@@ -28,24 +28,26 @@
 - [26 Quaker Oat Single Bag](#26-quaker-oat-single-bag)
 - [27 Great Value Everything Bagel](#27-great-value-everything-bagel)
 - [28 Oat Chocolate Bar (26g)](#28-oat-chocolate-bar-26g)
-- [29 zatar_bread](#29-zatar_bread)
-- [30 eggplant_dip](#30-eggplant_dip)
-- [31 multigrain_european_style_sliced_bread](#31-multigrain_european_style_sliced_bread)
-- [32 clover_leaf_chili_can_tuna_small](#32-clover_leaf_chili_can_tuna_small)
-- [33 haidilao_spicy_flavor_potato_noodle](#33-haidilao_spicy_flavor_potato_noodle)
-- [34 lotte_banana_flavor_choco_pie](#34-lotte_banana_flavor_choco_pie)
-- [35 pillers_black_forest_ham_60g](#35-pillers_black_forest_ham_60g)
-- [36 hellmanns_mayo_full_fat](#36-hellmanns_mayo_full_fat)
-- [37 great_value_havarti_cheese_slices](#37-great_value_havarti_cheese_slices)
-- [38 mala_wangzi](#38-mala_wangzi)
+- [29 Zatar Bread](#29-zatar-bread)
+- [30 Eggplant Dip](#30-eggplant-dip)
+- [31 Multigrain European Style Sliced Bread](#31-multigrain-european-style-sliced-bread)
+- [32 Clover Leaf Chili Can Tuna Small](#32-clover-leaf-chili-can-tuna-small)
+- [33 Haidilao Spicy Flavor Potato Noodle](#33-haidilao-spicy-flavor-potato-noodle)
+- [34 Lotte Banana Flavor Choco Pie](#34-lotte-banana-flavor-choco-pie)
+- [35 Pillers Black Forest Ham 60g](#35-pillers-black-forest-ham-60g)
+- [36 Hellmanns Mayo Full Fat](#36-hellmanns-mayo-full-fat)
+- [37 Great Value Havarti Cheese Slices](#37-great-value-havarti-cheese-slices)
+- [38 Mala Wangzi](#38-mala-wangzi)
 
 ---
 
 # 🥗 Master Nutritional Database
 
-> **Last Updated:** 2026-03-08 00:25
+> **Last Updated:** 2026-03-08 18:10
 
 > This file is auto-generated from `individual_food_data/`. Do not edit manually.
+
+
 
 <a name="01-clif-bar-white-chocolate-macadamia-nut"></a>
 
@@ -259,22 +261,22 @@
 
 ## 10 Pasta Tomato Sauce
 
-| Nutrient      | Per Serving | DV% | Component of  |
-| ------------- | ----------- | --- | ------------- |
-| Serving Size  | 125 mL      | -   | -             |
-| Calories      | 50          | -   | -             |
-| Fat           | 0.5 g       | 1%  | -             |
-| Saturated Fat | 0 g         | 0%  | Fat           |
-| Trans Fat     | 0 g         | -   | Fat           |
-| Carbohydrates | 9 g         | 7%  | -             |
-| Fiber         | 2 g         | -   | Carbohydrates |
-| Sugar         | 5 g         | 5%  | Carbohydrates |
-| Protein       | 1 g         | -   | -             |
-| Cholesterol   | 0 mg        | -   | -             |
-| Sodium        | 370 mg      | 16% | -             |
-| Potassium     | 350 mg      | 10% | -             |
-| Calcium       | 20 mg       | 2%  | -             |
-| Iron          | 0.75 mg     | 4%  | -             |
+| Nutrient | Per Serving | DV% | Component of |
+|----------|-------------|-----|---------------|
+| Serving Size | 125 mL | - | - |
+| Calories | 50 | - | - |
+| Fat | 0.5 g | 1% | - |
+| Saturated Fat | 0 g | 0% | Fat |
+| Trans Fat | 0 g | - | Fat |
+| Carbohydrates | 9 g | 7% | - |
+| Fiber | 2 g | - | Carbohydrates |
+| Sugar | 5 g | 5% | Carbohydrates |
+| Protein | 1 g | - | - |
+| Cholesterol | 0 mg | - | - |
+| Sodium | 370 mg | 16% | - |
+| Potassium | 350 mg | 10% | - |
+| Calcium | 20 mg | 2% | - |
+| Iron | 0.75 mg | 4% | - |
 
 ---
 
@@ -467,26 +469,26 @@
 
 ---
 
-<a name="19-haorenjia_sesame_peanut_mixing_sauce"></a>
+<a name="19-haorenjia-sesame-peanut-mixing-sauce"></a>
 
-## 19 haorenjia_sesame_peanut_mixing_sauce
+## 19 Haorenjia Sesame Peanut Mixing Sauce
 
-| Nutrient      | Per Serving | DV% | Component of |
-| ------------- | ----------- | --- | ------------ |
-| Serving Size  | 100g        | -   | -            |
-| Calories      | 650         | -   | -            |
-| Fat           | 54g         | 72% | -            |
-| Saturated Fat | 10g         | 50% | Fat          |
-| Trans Fat     | 0g          | -   | Fat          |
-| Carbohydrate  | 17g         | -   | -            |
-| Fiber         | 6g          | 21% | Carbohydrate |
-| Sugars        | 4g          | 4%  | Carbohydrate |
-| Protein       | 25g         | -   | -            |
-| Cholesterol   | 2mg         | -   | -            |
-| Sodium        | 0mg         | 0%  | -            |
-| Potassium     | 450mg       | 10% | -            |
-| Calcium       | 250mg       | 19% | -            |
-| Iron          | 3mg         | 17% | -            |
+| Nutrient | Per Serving | DV% | Component of |
+|----------|-------------|-----|---------------|
+| Serving Size | 100g | - | - |
+| Calories | 650 | - | - |
+| Fat | 54g | 72% | - |
+| Saturated Fat | 10g | 50% | Fat |
+| Trans Fat | 0g | - | Fat |
+| Carbohydrate | 17g | - | - |
+| Fiber | 6g | 21% | Carbohydrate |
+| Sugars | 4g | 4% | Carbohydrate |
+| Protein | 25g | - | - |
+| Cholesterol | 2mg | - | - |
+| Sodium | 0mg | 0% | - |
+| Potassium | 450mg | 10% | - |
+| Calcium | 250mg | 19% | - |
+| Iron | 3mg | 17% | - |
 
 ---
 
@@ -517,22 +519,22 @@
 
 ## 21 Ritz Cheese Cracker Bits
 
-| Nutrient      | Per Serving | DV% | Component of  |
-| ------------- | ----------- | --- | ------------- |
-| Serving Size  | 30g         | -   | -             |
-| Calories      | 160         | -   | -             |
-| Fat           | 9g          | 12% | -             |
-| Saturated Fat | 3.5g        | 18% | Fat           |
-| Trans Fat     | 0.1g        | -   | Fat           |
-| Carbohydrates | 18g         | -   | -             |
-| Fiber         | 0g          | 0%  | Carbohydrates |
-| Sugar         | 4g          | 4%  | Carbohydrates |
-| Protein       | 2g          | -   | -             |
-| Cholesterol   | 5mg         | 2%  | -             |
-| Sodium        | 130mg       | 6%  | -             |
-| Potassium     | 75mg        | 2%  | -             |
-| Calcium       | 50mg        | 4%  | -             |
-| Iron          | 0.75mg      | 4%  | -             |
+| Nutrient | Per Serving | DV% | Component of |
+|----------|-------------|-----|---------------|
+| Serving Size | 30g | - | - |
+| Calories | 160 | - | - |
+| Fat | 9g | 12% | - |
+| Saturated Fat | 3.5g | 18% | Fat |
+| Trans Fat | 0.1g | - | Fat |
+| Carbohydrates | 18g | - | - |
+| Fiber | 0g | 0% | Carbohydrates |
+| Sugar | 4g | 4% | Carbohydrates |
+| Protein | 2g | - | - |
+| Cholesterol | 5mg | 2% | - |
+| Sodium | 130mg | 6% | - |
+| Potassium | 75mg | 2% | - |
+| Calcium | 50mg | 4% | - |
+| Iron | 0.75mg | 4% | - |
 
 ---
 
@@ -715,33 +717,33 @@
 
 ---
 
-<a name="29-zatar_bread"></a>
+<a name="29-zatar-bread"></a>
 
-## 29 zatar_bread
+## 29 Zatar Bread
 
-| Nutrient      | Per Serving | DV% | Component of  |
-| ------------- | ----------- | --- | ------------- |
-| Serving Size  | 100g        | -   | -             |
-| Calories      | 170         | -   | -             |
-| Fat           | 2.5g        | 4%  | -             |
-| Saturated Fat | 0.3g        | 2%  | Fat           |
-| Trans Fat     | 0g          | -   | Fat           |
-| Cholesterol   | 0mg         | -   | -             |
-| Sodium        | 310mg       | 13% | -             |
-| Carbohydrates | 35g         | 12% | -             |
-| Fiber         | 1g          | 5%  | Carbohydrates |
-| Sugar         | 1g          | -   | Carbohydrates |
-| Protein       | 4g          | -   | -             |
-| Vitamin A     | -           | 0%  | -             |
-| Vitamin C     | -           | 4%  | -             |
-| Calcium       | -           | 0%  | -             |
-| Iron          | -           | 15% | -             |
+| Nutrient | Per Serving | DV% | Component of |
+|----------|-------------|-----|---------------|
+| Serving Size | 100g | - | - |
+| Calories | 170 | - | - |
+| Fat | 2.5g | 4% | - |
+| Saturated Fat | 0.3g | 2% | Fat |
+| Trans Fat | 0g | - | Fat |
+| Cholesterol | 0mg | - | - |
+| Sodium | 310mg | 13% | - |
+| Carbohydrates | 35g | 12% | - |
+| Fiber | 1g | 5% | Carbohydrates |
+| Sugar | 1g | - | Carbohydrates |
+| Protein | 4g | - | - |
+| Vitamin A | - | 0% | - |
+| Vitamin C | - | 4% | - |
+| Calcium | - | 0% | - |
+| Iron | - | 15% | - |
 
 ---
 
-<a name="30-eggplant_dip"></a>
+<a name="30-eggplant-dip"></a>
 
-## 30 eggplant_dip
+## 30 Eggplant Dip
 
 | Nutrient      | Per Serving   | DV% | Component of  |
 | ------------- | ------------- | --- | ------------- |
@@ -762,9 +764,9 @@
 
 ---
 
-<a name="31-multigrain_european_style_sliced_bread"></a>
+<a name="31-multigrain-european-style-sliced-bread"></a>
 
-## 31 multigrain_european_style_sliced_bread
+## 31 Multigrain European Style Sliced Bread
 
 | Nutrient      | Per Serving      | DV% | Component of |
 | ------------- | ---------------- | --- | ------------ |
@@ -785,9 +787,9 @@
 
 ---
 
-<a name="32-clover_leaf_chili_can_tuna_small"></a>
+<a name="32-clover-leaf-chili-can-tuna-small"></a>
 
-## 32 clover_leaf_chili_can_tuna_small
+## 32 Clover Leaf Chili Can Tuna Small
 
 | Nutrient      | Per Serving  | DV% | Component of |
 | ------------- | ------------ | --- | ------------ |
@@ -804,9 +806,9 @@
 
 ---
 
-<a name="33-haidilao_spicy_flavor_potato_noodle"></a>
+<a name="33-haidilao-spicy-flavor-potato-noodle"></a>
 
-## 33 haidilao_spicy_flavor_potato_noodle
+## 33 Haidilao Spicy Flavor Potato Noodle
 
 | Nutrient      | Per Serving | DV%  | Component of |
 | ------------- | ----------- | ---- | ------------ |
@@ -827,56 +829,56 @@
 
 ---
 
-<a name="34-lotte_banana_flavor_choco_pie"></a>
+<a name="34-lotte-banana-flavor-choco-pie"></a>
 
-## 34 lotte_banana_flavor_choco_pie
+## 34 Lotte Banana Flavor Choco Pie
 
-| Nutrient       | Per Serving  | DV% | Component of  |
-| -------------- | ------------ | --- | ------------- |
-| Serving Size   | 1 pack (28g) | -   | -             |
-| Calories       | 120          | -   | -             |
-| Fat            | 5g           | 6%  | -             |
-| Saturated Fat  | 4g           | 19% | Fat           |
-| Trans Fat      | 0g           | -   | Fat           |
-| Carbohydrates  | 19g          | -   | -             |
-| Fibre          | 0g           | 0%  | Carbohydrates |
-| Sugars         | 9g           | 9%  | Carbohydrates |
-| Sugar Alcohols | 0g           | -   | Carbohydrates |
-| Protein        | 1g           | -   | -             |
-| Cholesterol    | 0mg          | -   | -             |
-| Sodium         | 80mg         | 3%  | -             |
-| Potassium      | 70mg         | 2%  | -             |
-| Calcium        | 10mg         | 1%  | -             |
-| Iron           | 0.5mg        | 4%  | -             |
-
----
-
-<a name="35-pillers_black_forest_ham_60g"></a>
-
-## 35 pillers_black_forest_ham_60g
-
-| Nutrient      | Per Serving | DV% | Component of  |
-| ------------- | ----------- | --- | ------------- |
-| Serving Size  | 60g         | -   | -             |
-| Calories      | 60          | -   | -             |
-| Fat           | 1.5g        | 2%  | -             |
-| Saturated Fat | 0.5g        | 3%  | Fat           |
-| Trans Fat     | 0g          | -   | Fat           |
-| Carbohydrates | 1g          | -   | -             |
-| Fibre         | 0g          | 0%  | Carbohydrates |
-| Sugar         | 1g          | 1%  | Carbohydrates |
-| Protein       | 9g          | -   | -             |
-| Cholesterol   | 30mg        | -   | -             |
-| Sodium        | 550mg       | 24% | -             |
-| Potassium     | 175mg       | 4%  | -             |
-| Calcium       | 10mg        | 1%  | -             |
-| Iron          | 0.5mg       | 3%  | -             |
+| Nutrient | Per Serving | DV% | Component of |
+|----------|-------------|-----|---------------|
+| Serving Size | 1 pack (28g) | - | - |
+| Calories | 120 | - | - |
+| Fat | 5g | 6% | - |
+| Saturated Fat | 4g | 19% | Fat |
+| Trans Fat | 0g | - | Fat |
+| Carbohydrates | 19g | - | - |
+| Fibre | 0g | 0% | Carbohydrates |
+| Sugars | 9g | 9% | Carbohydrates |
+| Sugar Alcohols | 0g | - | Carbohydrates |
+| Protein | 1g | - | - |
+| Cholesterol | 0mg | - | - |
+| Sodium | 80mg | 3% | - |
+| Potassium | 70mg | 2% | - |
+| Calcium | 10mg | 1% | - |
+| Iron | 0.5mg | 4% | - |
 
 ---
 
-<a name="36-hellmanns_mayo_full_fat"></a>
+<a name="35-pillers-black-forest-ham-60g"></a>
 
-## 36 hellmanns_mayo_full_fat
+## 35 Pillers Black Forest Ham 60g
+
+| Nutrient | Per Serving | DV% | Component of |
+|----------|-------------|-----|---------------|
+| Serving Size | 60g | - | - |
+| Calories | 60 | - | - |
+| Fat | 1.5g | 2% | - |
+| Saturated Fat | 0.5g | 3% | Fat |
+| Trans Fat | 0g | - | Fat |
+| Carbohydrates | 1g | - | - |
+| Fibre | 0g | 0% | Carbohydrates |
+| Sugar | 1g | 1% | Carbohydrates |
+| Protein | 9g | - | - |
+| Cholesterol | 30mg | - | - |
+| Sodium | 550mg | 24% | - |
+| Potassium | 175mg | 4% | - |
+| Calcium | 10mg | 1% | - |
+| Iron | 0.5mg | 3% | - |
+
+---
+
+<a name="36-hellmanns-mayo-full-fat"></a>
+
+## 36 Hellmanns Mayo Full Fat
 
 | Nutrient            | Per Serving    | DV% | Component of        |
 | ------------------- | -------------- | --- | ------------------- |
@@ -901,32 +903,32 @@
 
 ---
 
-<a name="37-great_value_havarti_cheese_slices"></a>
+<a name="37-great-value-havarti-cheese-slices"></a>
 
-## 37 great_value_havarti_cheese_slices
+## 37 Great Value Havarti Cheese Slices
 
-| Nutrient      | Per Serving    | DV% | Component of |
-| ------------- | -------------- | --- | ------------ |
-| Serving Size  | 1 slice (19 g) | -   | -            |
-| Calories      | 80             | -   | -            |
-| Fat           | 7 g            | 9%  | -            |
-| Saturated Fat | 4 g            | 21% | Fat          |
-| Trans Fat     | 0.2 g          | -   | Fat          |
-| Carbohydrate  | 1 g            | -   | -            |
-| Fibre         | 0 g            | 0%  | Carbohydrate |
-| Sugars        | 0 g            | 0%  | Carbohydrate |
-| Protein       | 4 g            | -   | -            |
-| Cholesterol   | 20 mg          | -   | -            |
-| Sodium        | 130 mg         | 6%  | -            |
-| Potassium     | 10 mg          | 1%  | -            |
-| Calcium       | 125 mg         | 10% | -            |
-| Iron          | 0 mg           | 0%  | -            |
+| Nutrient | Per Serving | DV% | Component of |
+|----------|-------------|-----|---------------|
+| Serving Size | 1 slice (19 g) | - | - |
+| Calories | 80 | - | - |
+| Fat | 7 g | 9% | - |
+| Saturated Fat | 4 g | 21% | Fat |
+| Trans Fat | 0.2 g | - | Fat |
+| Carbohydrate | 1 g | - | - |
+| Fibre | 0 g | 0% | Carbohydrate |
+| Sugars | 0 g | 0% | Carbohydrate |
+| Protein | 4 g | - | - |
+| Cholesterol | 20 mg | - | - |
+| Sodium | 130 mg | 6% | - |
+| Potassium | 10 mg | 1% | - |
+| Calcium | 125 mg | 10% | - |
+| Iron | 0 mg | 0% | - |
 
 ---
 
-<a name="38-mala_wangzi"></a>
+<a name="38-mala-wangzi"></a>
 
-## 38 mala_wangzi
+## 38 Mala Wangzi
 
 | Nutrient      | Per Serving | DV% | Component of |
 | ------------- | ----------- | --- | ------------ |

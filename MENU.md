@@ -1,7 +1,7 @@
 # MENU.md - Daily Meal Templates
 
 <!--
-This file contains your personal meal templates.
+This file contains user's personal meal templates.
 Each meal is a combination of individual food items with specific gram amounts.
 
 Format:

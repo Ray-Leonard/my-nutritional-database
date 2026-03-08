@@ -1,4 +1,4 @@
-# eggplant_dip
+# Eggplant Dip
 
 | Nutrient      | Per Serving   | DV% | Component of  |
 | ------------- | ------------- | --- | ------------- |

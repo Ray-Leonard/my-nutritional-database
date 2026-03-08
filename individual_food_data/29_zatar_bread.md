@@ -1,4 +1,4 @@
-# zatar_bread
+# Zatar Bread
 
 | Nutrient | Per Serving | DV% | Component of |
 |----------|-------------|-----|---------------|

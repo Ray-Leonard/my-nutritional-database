@@ -1,4 +1,4 @@
-# haidilao_spicy_flavor_potato_noodle
+# Haidilao Spicy Flavor Potato Noodle
 
 | Nutrient      | Per Serving | DV%  | Component of |
 | ------------- | ----------- | ---- | ------------ |

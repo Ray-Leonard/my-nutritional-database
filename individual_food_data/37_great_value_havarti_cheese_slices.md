@@ -1,4 +1,4 @@
-# great_value_havarti_cheese_slices
+# Great Value Havarti Cheese Slices
 
 | Nutrient | Per Serving | DV% | Component of |
 |----------|-------------|-----|---------------|

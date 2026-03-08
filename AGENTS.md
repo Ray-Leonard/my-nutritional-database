@@ -99,13 +99,13 @@ No `.cursor/rules/` or `.github/copilot-instructions.md` found.
    - Rename image to `source_images/[ID]_[food_name]_(ORIGINAL_ID).jpg`.
    - Create `individual_food_data/[ID]_[food_name].md` with table (including DV% and Component of columns).
 
-4. Run `python consolidate_nutrition.py` to update the master file (`NUTRITION_MASTER.md`).
+4. Run `python generate_nutrition_master_from_individual.py` to update the master file (`NUTRITION_MASTER.md`).
 
 ## Master Consolidation Script
 
-- **Script**: `consolidate_nutrition.py` (in project root)
+- **Script**: `generate_nutrition_master_from_individual.py` (in project root)
 - **Purpose**: Scans `individual_food_data/` and merges all individual food `.md` files into a single `NUTRITION_MASTER.md`.
-- **Usage**: Run `python consolidate_nutrition.py` after processing any new image or renaming any food.
+- **Usage**: Run `python generate_nutrition_master_from_individual.py` after processing any new image or renaming any food.
 - **Output**: Generates `NUTRITION_MASTER.md` with a Table of Contents, timestamps, and clickable anchors for each entry.
 
 5. Use PowerShell for file ops on Windows.

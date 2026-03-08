@@ -1,4 +1,4 @@
-# lotte_banana_flavor_choco_pie
+# Lotte Banana Flavor Choco Pie
 
 | Nutrient | Per Serving | DV% | Component of |
 |----------|-------------|-----|---------------|

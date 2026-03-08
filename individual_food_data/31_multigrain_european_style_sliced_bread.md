@@ -1,4 +1,4 @@
-# multigrain_european_style_sliced_bread
+# Multigrain European Style Sliced Bread
 
 | Nutrient      | Per Serving      | DV% | Component of |
 | ------------- | ---------------- | --- | ------------ |

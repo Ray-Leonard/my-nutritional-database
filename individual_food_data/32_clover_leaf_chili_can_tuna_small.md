@@ -1,4 +1,4 @@
-# clover_leaf_chili_can_tuna_small
+# Clover Leaf Chili Can Tuna Small
 
 | Nutrient      | Per Serving  | DV% | Component of |
 | ------------- | ------------ | --- | ------------ |

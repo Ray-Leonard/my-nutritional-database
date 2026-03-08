@@ -1,4 +1,4 @@
-# mala_wangzi
+# Mala Wangzi
 
 | Nutrient      | Per Serving | DV% | Component of |
 | ------------- | ----------- | --- | ------------ |

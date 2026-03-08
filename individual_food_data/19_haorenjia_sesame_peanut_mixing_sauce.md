@@ -1,4 +1,4 @@
-# haorenjia_sesame_peanut_mixing_sauce
+# Haorenjia Sesame Peanut Mixing Sauce
 
 | Nutrient | Per Serving | DV% | Component of |
 |----------|-------------|-----|---------------|
