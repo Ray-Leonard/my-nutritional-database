@@ -1,11 +1,17 @@
 # AGENTS.md for MyCommonFoodNutritious
 
+## Directory Structure
+
+- Project Root: `S:\_MyDocuments\健身\my-nutritional-database\`
+- Data Directory: `individual_food_data/`
+- Images Directory: `source_images/`
+
 ## Directory Purpose
 
 This is a data directory for storing and processing images of food nutrition labels.
-Images are named `IMG_*.jpg` or `IMG_*.jpeg`.
-Processed data is stored in individual `.md` files named after the food (snake_case).
-`all_food_names.md` lists all unique food names.
+Images are stored in `source_images/` and named `IMG_*.jpg` or `IMG_*.jpeg`.
+Processed data is stored in `individual_food_data/` as individual `.md` files named after the food (snake_case).
+`all_food_names.md` (in root) lists all unique food names.
 
 ## Build/Lint/Test Commands
 
@@ -80,7 +86,7 @@ No `.cursor/rules/` or `.github/copilot-instructions.md` found.
 ## Agent Processing Workflow
 
 1. Check `all_food_names.md` exists and read contents.
-2. Glob `IMG_*.{jpg,jpeg}` sorted by name.
+2. Glob `source_images/IMG_*.{jpg,jpeg}` sorted by name.
 3. For each:
    - Read image.
    - Extract essential info: serving_size, calories, protein_g, carbs_g, fat_g per serving.
@@ -90,8 +96,8 @@ No `.cursor/rules/` or `.github/copilot-instructions.md` found.
    - Optional: sodium_mg, potassium_mg, vitamins, etc.
    - Identify food_name (snake_case). If the user provides a name for the image, use it. Otherwise, generate a descriptive name based on the image content.
    - Check uniqueness in all_food_names.md.
-    - Rename image to `[ID]_[food_name]_(ORIGINAL_ID).jpg`.
-    - Create `[ID]_[food_name].md` with table (including DV% and Component of columns).
+    - Rename image to `source_images/[ID]_[food_name]_(ORIGINAL_ID).jpg`.
+    - Create `individual_food_data/[ID]_[food_name].md` with table (including DV% and Component of columns).
 
 4. Use PowerShell for file ops on Windows.
 
@@ -100,9 +106,9 @@ No `.cursor/rules/` or `.github/copilot-instructions.md` found.
 When a user requests to rename a food product:
 1. Identify the current ID and snake_case name.
 2. Update the entry in `all_food_names.md`.
-3. Rename the Markdown file: `[ID]_[old_name].md` -> `[ID]_[new_name].md`.
+3. Rename the Markdown file: `individual_food_data/[ID]_[old_name].md` -> `individual_food_data/[ID]_[new_name].md`.
 4. Update the H1 title in the Markdown file: `# Old Name` -> `# New Name`.
-5. Rename the Image file: `[ID]_[old_name]_(IMG_XXXX).jpg` -> `[ID]_[new_name]_(IMG_XXXX).jpg`.
+5. Rename the Image file: `source_images/[ID]_[old_name]_(IMG_XXXX).jpg` -> `source_images/[ID]_[new_name]_(IMG_XXXX).jpg`.
 6. Ensure all paths remain absolute.
 
 ## Windows PowerShell Commands for Agents

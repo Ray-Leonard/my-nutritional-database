@@ -6,10 +6,11 @@ A structured, AI-agent-powered repository for converting food nutrition labels i
 Unlike traditional databases, this project is designed to be managed by **LLM-based Agents** (like GitHub Copilot, Cursor, or OpenCode). The heart of the project is `AGENTS.md`, which contains the "System Instructions" for an AI to act as a data entry clerk, OCR processor, and file manager.
 
 ## 📂 Project Structure
-- `[ID]_[food_name].md`: Processed data files containing structured tables.
+- `individual_food_data/`: Processed data files containing structured tables (tracked by Git).
+- `source_images/`: Folder for raw photos (gitignored, contains `.gitkeep` to maintain folder structure).
 - `all_food_names.md`: A master index of all processed items.
-- `AGENTS.md`: The "Source of Truth" for how an AI agent should process new data.
-- **Note on Images:** Raw nutrition label images (`IMG_*.jpg`, etc.) are processed by the agent but are **gitignored** to protect privacy and keep the repository size small. Only the structured Markdown data is tracked in version control.
+- `AGENTS.md`: The "Source of Truth" for agent instructions.
+- **Note on Images:** Raw nutrition label images (`IMG_*.jpg`, etc.) are processed by the agent but are **gitignored** in the `source_images/` directory to protect privacy and keep the repository size small.
 
 ## 🤖 Workflow: How to Process New Images
 This repository is optimized for use with a coding agent. To add new data:
