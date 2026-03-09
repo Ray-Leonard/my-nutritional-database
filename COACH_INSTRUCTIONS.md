@@ -111,12 +111,12 @@ After processing all meals for the day, output a cumulative summary:
 ### Goal Comparison
 
 #### Macros comparison
-| Nutrient | Total | Goal | Remaining | Status |
+| Nutrient | Total | Goal | Diff | Status |
 |----------|-------|------|-----------|--------|
-| Calories | 1550 | 2000 | +450 | ⛽ |
-| Protein | 100g | 150g | +50g | ⛽ |
-| Carbs | 135g | 200g | +65g | ⛽ |
-| Fat | 50g | 65g | +15g | ⛽ |
+| Calories | 1550 | 2000 | -450 | ⛽ |
+| Protein | 100g | 150g | -50g | ⛽ |
+| Carbs | 135g | 200g | -65g | ⛽ |
+| Fat | 50g | 65g | -15g | ⛽ |
 
 #### Micronutrients DV Status Check
 | Nutrient | Amount | DV% | Status |
@@ -131,6 +131,10 @@ After processing all meals for the day, output a cumulative summary:
 ```
 
 #### Macro Status Logic
+
+**Diff Calculation**: `Diff = Total - Goal`.
+- Negative (`-`): Under goal (deficit)
+- Positive (`+`): Over goal (surplus)
 
 Use the following emojis for the **Macros comparison** status column:
 
@@ -150,4 +154,4 @@ Use the following emojis for the **Macros comparison** status column:
 
 - **Warnings**: Flag when DV% >= 100% (e.g., "⚠️ Sodium intake is at 115% DV")
 - **Insights**: Relevant observations (e.g., "High protein meal, good for post-workout recovery")
-- **Suggestions**: Based on remaining daily macros and user's training plan (from other system prompts)
+- **Suggestions**: Based on daily macro difference (Diff) and user's training plan (from other system prompts)
