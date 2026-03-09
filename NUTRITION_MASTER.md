@@ -40,12 +40,13 @@
 - [38 Mala Wangzi](#38-mala-wangzi)
 - [39 Clover Leaf Tomato Onion Flavor Can Tuna](#39-clover-leaf-tomato-onion-flavor-can-tuna)
 - [40 Clif Builders Chocolate Peanut Butter](#40-clif-builders-chocolate-peanut-butter)
+- [41 Black Coconut Raisin Icecream](#41-black-coconut-raisin-icecream)
 
 ---
 
 # 🥗 Master Nutritional Database
 
-> **Last Updated:** 2026-03-08 19:02
+> **Last Updated:** 2026-03-08 23:48
 
 > This file is auto-generated from `individual_food_data/`. Do not edit manually.
 
@@ -990,5 +991,28 @@
 | Potassium | 225mg | 5% | - |
 | Calcium | 40mg | 3% | - |
 | Iron | 3.5mg | 19% | - |
+
+---
+
+<a name="41-black-coconut-raisin-icecream"></a>
+
+## 41 Black Coconut Raisin Icecream
+
+| Nutrient | Per Serving | DV% | Component of |
+|----------|-------------|-----|---------------|
+| Serving Size | 70g | - | - |
+| Calories | 150 | - | - |
+| Fat | 5g | 7% | - |
+| Saturated Fat | 4g | 20% | Fat |
+| Trans Fat | 0g | - | Fat |
+| Carbohydrates | 24g | - | - |
+| Fiber | 0.6g | 2% | Carbohydrates |
+| Sugar | 19g | 19% | Carbohydrates |
+| Protein | 2g | - | - |
+| Cholesterol | 0mg | - | - |
+| Sodium | 43mg | 2% | - |
+| Potassium | 332mg | 6% | - |
+| Calcium | 58mg | 4% | - |
+| Iron | 1mg | 6% | - |
 
 ---
