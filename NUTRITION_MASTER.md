@@ -41,12 +41,17 @@
 - [39 Clover Leaf Tomato Onion Flavor Can Tuna](#39-clover-leaf-tomato-onion-flavor-can-tuna)
 - [40 Clif Builders Chocolate Peanut Butter](#40-clif-builders-chocolate-peanut-butter)
 - [41 Black Coconut Raisin Icecream](#41-black-coconut-raisin-icecream)
+- [42 Panda Brand Udon Noodles](#42-panda-brand-udon-noodles)
+- [43 Soba Noodles](#43-soba-noodles)
+- [44 Peanut Butter](#44-peanut-butter)
+- [45 Strawberry Jam](#45-strawberry-jam)
+- [46 Milk Green Bean Cake Snack](#46-milk-green-bean-cake-snack)
 
 ---
 
 # 🥗 Master Nutritional Database
 
-> **Last Updated:** 2026-03-08 23:48
+> **Last Updated:** 2026-03-09 22:46
 
 > This file is auto-generated from `individual_food_data/`. Do not edit manually.
 
@@ -1014,5 +1019,120 @@
 | Potassium | 332mg | 6% | - |
 | Calcium | 58mg | 4% | - |
 | Iron | 1mg | 6% | - |
+
+---
+
+<a name="42-panda-brand-udon-noodles"></a>
+
+## 42 Panda Brand Udon Noodles
+
+| Nutrient | Per Serving | DV% | Component of |
+|----------|-------------|-----|---------------|
+| Serving Size | 1 package (200 g) | - | - |
+| Calories | 270 | - | - |
+| Fat | 0.5 g | 1 % | - |
+| Saturated Fat | 0.2 g | 1 % | Fat |
+| Trans Fat | 0 g | - | Fat |
+| Carbohydrate | 62 g | - | - |
+| Fiber | 8 g | 29 % | Carbohydrate |
+| Sugars | 0 g | 0 % | Carbohydrate |
+| Protein | 7 g | - | - |
+| Cholesterol | 0 mg | - | - |
+| Sodium | 250 mg | 11 % | - |
+| Potassium | 30 mg | 1 % | - |
+| Calcium | 10 mg | 1 % | - |
+| Iron | 0.5 mg | 3 % | - |
+
+---
+
+<a name="43-soba-noodles"></a>
+
+## 43 Soba Noodles
+
+| Nutrient | Per Serving | DV% | Component of |
+|----------|-------------|-----|---------------|
+| Serving Size | 56 g | - | - |
+| Calories | 195 | - | - |
+| Fat | 1 g | 2 % | - |
+| Saturated Fat | 0 g | 0 % | Fat |
+| Trans Fat | 0 g | - | Fat |
+| Carbohydrate | 39 g | - | - |
+| Fiber | 1 g | 4 % | Carbohydrate |
+| Sugars | 0 g | 0 % | Carbohydrate |
+| Protein | 7.3 g | - | - |
+| Cholesterol | 0 mg | - | - |
+| Sodium | 425.6 mg | 19 % | - |
+| Potassium | 141 mg | 4 % | - |
+| Calcium | 14 mg | 1 % | - |
+| Iron | 1.0 mg | 6 % | - |
+
+---
+
+<a name="44-peanut-butter"></a>
+
+## 44 Peanut Butter
+
+| Nutrient | Per Serving | DV% | Component of |
+|----------|-------------|-----|---------------|
+| Serving Size | 1 tbsp (15 g) | - | - |
+| Calories | 90 | - | - |
+| Fat | 8 g | 11 % | - |
+| Saturated Fat | 1.5 g | 8 % | Fat |
+| Trans Fat | 0 g | - | Fat |
+| Carbohydrate | 3 g | - | - |
+| Fiber | 1 g | 4 % | Carbohydrate |
+| Sugars | 1 g | 1 % | Carbohydrate |
+| Protein | 4 g | - | - |
+| Cholesterol | 0 mg | - | - |
+| Sodium | 55 mg | 2 % | - |
+| Potassium | 100 mg | 3 % | - |
+| Calcium | 10 mg | 1 % | - |
+| Iron | 0.3 mg | 2 % | - |
+
+---
+
+<a name="45-strawberry-jam"></a>
+
+## 45 Strawberry Jam
+
+| Nutrient | Per Serving | DV% | Component of |
+|----------|-------------|-----|---------------|
+| Serving Size | 1 tablespoon (15 ml) | - | - |
+| Calories | 50 | - | - |
+| Fat | 0 g | 0 % | - |
+| Saturated Fat | 0 g | 0 % | Fat |
+| Trans Fat | 0 g | - | Fat |
+| Carbohydrate | 13 g | - | - |
+| Fiber | 0 g | 0 % | Carbohydrate |
+| Sugars | 10 g | 10 % | Carbohydrate |
+| Protein | 0 g | - | - |
+| Cholesterol | 0 mg | - | - |
+| Sodium | 4 mg | 0 % | - |
+| Potassium | 10 mg | 0 % | - |
+| Calcium | 0 mg | 0 % | - |
+| Iron | 0.1 mg | 1 % | - |
+
+---
+
+<a name="46-milk-green-bean-cake-snack"></a>
+
+## 46 Milk Green Bean Cake Snack
+
+| Nutrient | Per Serving | DV% | Component of |
+|----------|-------------|-----|---------------|
+| Serving Size | 40 g | - | - |
+| Calories | 140 | - | - |
+| Fat | 3.9 g | 5 % | - |
+| Saturated Fat | 1.8 g | 9 % | Fat |
+| Trans Fat | 0 g | - | Fat |
+| Carbohydrate | 23 g | - | - |
+| Fiber | 0 g | 0 % | Carbohydrate |
+| Sugars | 5 g | 5 % | Carbohydrate |
+| Protein | 3.2 g | - | - |
+| Cholesterol | 0 mg | - | - |
+| Sodium | 29 mg | 1 % | - |
+| Potassium | 0 mg | 0 % | - |
+| Calcium | 0 mg | 0 % | - |
+| Iron | 0 mg | 0 % | - |
 
 ---

@@ -39,3 +39,8 @@
 39: clover_leaf_tomato_onion_flavor_can_tuna (IMG_2351)
 40: clif_builders_chocolate_peanut_butter_68g (IMG_2352)
 41: black_coconut_raisin_icecream (IMG_2355)
+42: panda_brand_udon_noodles (IMG_2358)
+43: soba_noodles (IMG_2359)
+44: peanut_butter (IMG_2361)
+45: strawberry_jam (IMG_2362)
+46: milk_green_bean_cake_snack (IMG_2364)
