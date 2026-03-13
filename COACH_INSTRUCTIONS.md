@@ -58,6 +58,15 @@ The user may specify variations to a menu item. Always adjust the calculation ac
 - **Substitution**: "PBJ with bread A instead of the one specified" → Replace the specified bread with the alternative provided by the user.
 - **Partial change**: "Chicken Rice Bowl with double chicken" → Multiply the chicken portion by 2.
 
+## Default Ingredient Assumptions
+
+When the user mentions a food without specifying a variant, always use these defaults unless the user explicitly states otherwise:
+
+| Food | Default Assumption |
+|------|--------------------|
+| Milk | 2% milk |
+| Greek yogurt | 0% fat, plain, sugar-free — Walmart's Our Finest Greek Yogurt (0% plain) |
+
 ## Important Rules
 
 - **Avoid Double-Counting**: Reference the "Component of" column in NUTRITION_MASTER.md. For example, do not add both "Fat" and "Saturated Fat" separately - Saturated Fat is already included in the Fat total.

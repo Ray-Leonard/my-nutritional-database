@@ -46,12 +46,13 @@
 - [44 Peanut Butter](#44-peanut-butter)
 - [45 Strawberry Jam](#45-strawberry-jam)
 - [46 Milk Green Bean Cake Snack](#46-milk-green-bean-cake-snack)
+- [47 Nagasaki Honey Castella Cake](#47-nagasaki-honey-castella-cake)
 
 ---
 
 # 🥗 Master Nutritional Database
 
-> **Last Updated:** 2026-03-09 22:46
+> **Last Updated:** 2026-03-13 14:53
 
 > This file is auto-generated from `individual_food_data/`. Do not edit manually.
 
@@ -1134,5 +1135,29 @@
 | Potassium | 0 mg | 0 % | - |
 | Calcium | 0 mg | 0 % | - |
 | Iron | 0 mg | 0 % | - |
+
+---
+
+<a name="47-nagasaki-honey-castella-cake"></a>
+
+## 47 Nagasaki Honey Castella Cake
+
+| Nutrient | Per Serving (100g) | DV% | Component of |
+|----------|-------------------|-----|--------------|
+| Serving Size | 100g | - | - |
+| Calories | 344kcal | - | - |
+| Fat | 9.2g | 12% | - |
+| Saturated Fat | 0g | 0% | Fat |
+| Trans Fat | 0g | 0% | Fat |
+| Cholesterol | 0.2g | - | - |
+| Sodium | 62mg | 3% | - |
+| Carbohydrates | 58.1g | 21% | - |
+| Fibre | 14.53g | 52% | Carbohydrates |
+| Sugars | 43.58g | - | Carbohydrates |
+| Protein | 7.3g | 15% | - |
+| Vitamin A | - | 0% | - |
+| Vitamin C | - | 0% | - |
+| Calcium | - | 0% | - |
+| Iron | - | 0% | - |
 
 ---

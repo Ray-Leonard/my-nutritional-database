@@ -42,4 +42,7 @@ Example:
 - Half of an onion
 - Half of a tomato (optional)
 
-## Chili with the best chili recipe
+## Six Star Protein MilkShake
+
+- 250g 2% milk
+- 1 scoop of Six Star Protein powder
