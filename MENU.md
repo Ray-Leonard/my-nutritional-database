@@ -66,11 +66,11 @@ Example:
 - 5 tablespoons chili powder
 - 4 tablespoons ground cumin
 - 4 tablespoons granulated sugar
-- (156 ml) 1 can of tomato paste (local database)
 - 2 tablespoon garlic powder
 - 3 teaspoons salt
 - 1 teaspoon ground black pepper
 - 2 cups beef broth
+- (156 ml) 1 can of tomato paste (local database)
 - (15 oz.) half a can of Great Value diced tomatoes (local database)
-- (16 oz.) 1 can of Great Value black beans, drained and rinsed (local database)
 - (8 oz.) half a can of Great Value tomato sauce (local database)
+- (16 oz.) 1 can of Great Value black beans, drained and rinsed (local database)
