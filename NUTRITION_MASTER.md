@@ -47,12 +47,16 @@
 - [45 Strawberry Jam](#45-strawberry-jam)
 - [46 Milk Green Bean Cake Snack](#46-milk-green-bean-cake-snack)
 - [47 Nagasaki Honey Castella Cake](#47-nagasaki-honey-castella-cake)
+- [48 Great Value Diced Tomatoes](#48-great-value-diced-tomatoes)
+- [49 Tomato Paste](#49-tomato-paste)
+- [50 Great Value Black Beans](#50-great-value-black-beans)
+- [51 Great Value Tomato Sauce](#51-great-value-tomato-sauce)
 
 ---
 
 # 🥗 Master Nutritional Database
 
-> **Last Updated:** 2026-03-13 14:53
+> **Last Updated:** 2026-03-15 02:06
 
 > This file is auto-generated from `individual_food_data/`. Do not edit manually.
 
@@ -1159,5 +1163,98 @@
 | Vitamin C | - | 0% | - |
 | Calcium | - | 0% | - |
 | Iron | - | 0% | - |
+
+---
+
+<a name="48-great-value-diced-tomatoes"></a>
+
+## 48 Great Value Diced Tomatoes
+
+| Nutrient | Per Serving | DV% | Component of |
+|----------|-------------|-----|--------------|
+| Serving Size | 125mL (1/2 cup) | - | - |
+| Calories | 25 | - | - |
+| Fat | 0g | 0% | - |
+| Saturated Fat | 0g | 0% | Fat |
+| Trans Fat | 0g | - | Fat |
+| Carbohydrates | 5g | 4% | - |
+| Fiber | 1g | 3% | Carbohydrates |
+| Sugar | 3g | - | Carbohydrates |
+| Protein | 1g | - | - |
+| Cholesterol | 0mg | - | - |
+| Sodium | 5mg | 1% | - |
+| Potassium | 225mg | 7% | - |
+| Calcium | 40mg | 3% | - |
+| Iron | 0.75mg | 4% | - |
+
+---
+
+<a name="49-tomato-paste"></a>
+
+## 49 Tomato Paste
+
+| Nutrient | Per Serving | DV% | Component of |
+|----------|-------------|-----|--------------|
+| Serving Size | 30mL (2 tbsp) | - | - |
+| Calories | 20 | - | - |
+| Fat | 0g | 0% | - |
+| Saturated Fat | 0g | 0% | Fat |
+| Trans Fat | 0g | - | Fat |
+| Carbohydrates | 5g | - | - |
+| Fiber | 1g | 4% | Carbohydrates |
+| Sugar | 3g | 3% | Carbohydrates |
+| Protein | 1g | - | - |
+| Cholesterol | 0mg | - | - |
+| Sodium | 5mg | 1% | - |
+| Potassium | 250mg | 5% | - |
+| Calcium | 10mg | 1% | - |
+| Iron | 0.5mg | 3% | - |
+
+---
+
+<a name="50-great-value-black-beans"></a>
+
+## 50 Great Value Black Beans
+
+| Nutrient | Per Serving | DV% | Component of |
+|----------|-------------|-----|--------------|
+| Serving Size | 250mL (1 cup) | - | - |
+| Calories | 160 | - | - |
+| Fat | 1g | 2% | - |
+| Saturated Fat | 0.3g | 2% | Fat |
+| Trans Fat | 0g | - | Fat |
+| Carbohydrates | 32g | 11% | - |
+| Fiber | 13g | 52% | Carbohydrates |
+| Sugar | 1g | - | Carbohydrates |
+| Protein | 11g | - | - |
+| Cholesterol | 0mg | - | - |
+| Sodium | 15mg | 1% | - |
+| Vitamin A | - | 0% | - |
+| Vitamin C | - | 0% | - |
+| Calcium | - | 8% | - |
+| Iron | - | 25% | - |
+
+---
+
+<a name="51-great-value-tomato-sauce"></a>
+
+## 51 Great Value Tomato Sauce
+
+| Nutrient | Per Serving | DV% | Component of |
+|----------|-------------|-----|--------------|
+| Serving Size | 125mL (1/2 cup) | - | - |
+| Calories | 45 | - | - |
+| Fat | 0g | 0% | - |
+| Saturated Fat | 0g | 0% | Fat |
+| Trans Fat | 0g | - | Fat |
+| Carbohydrates | 10g | - | - |
+| Fiber | 3g | 11% | Carbohydrates |
+| Sugar | 6g | 6% | Carbohydrates |
+| Protein | 2g | - | - |
+| Cholesterol | 0mg | - | - |
+| Sodium | 330mg | 14% | - |
+| Potassium | 600mg | 18% | - |
+| Calcium | 20mg | 2% | - |
+| Iron | 1.5mg | 8% | - |
 
 ---

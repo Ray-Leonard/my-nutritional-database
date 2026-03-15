@@ -46,3 +46,31 @@ Example:
 
 - 250g 2% milk
 - 1 scoop of Six Star Protein powder
+
+## Oatmeal bowl
+
+- 2 bags of quaker oat
+- 300g 2% milk
+
+## Chili with the Best Chili Recipe
+
+**NOTE:**
+
+- For this menu item, most of the ingredients' nutritious facts should be found online. The ones can be found in local database will be marked clearly
+
+- The total yield of this recipe is 2865g, when the user tells you how many grams they had, calculate the total nutritious facts then scale it down accordingly.
+
+- 2 tablespoon olive oil
+- 2 medium yellow onion -diced
+- 2 pound 90% lean ground beef
+- 5 tablespoons chili powder
+- 4 tablespoons ground cumin
+- 4 tablespoons granulated sugar
+- (156 ml) 1 can of tomato paste (local database)
+- 2 tablespoon garlic powder
+- 3 teaspoons salt
+- 1 teaspoon ground black pepper
+- 2 cups beef broth
+- (15 oz.) half a can of Great Value diced tomatoes (local database)
+- (16 oz.) 1 can of Great Value black beans, drained and rinsed (local database)
+- (8 oz.) half a can of Great Value tomato sauce (local database)
