@@ -54,12 +54,15 @@
 - [52 Black Diamond Marble Cheese Stick](#52-black-diamond-marble-cheese-stick)
 - [53 Brown Sugar Smoked Ham](#53-brown-sugar-smoked-ham)
 - [54 ACE Bocata Ronda Artisan Style Roll](#54-ace-bocata-ronda-artisan-style-roll)
+- [55 ACE Ciabatta Piccolo Roll](#55-ace-ciabatta-piccolo-roll)
+- [56 Dom Atlantic Smoked Salmon](#56-dom-atlantic-smoked-salmon)
+- [57 Great Value Tortilla Chips](#57-great-value-tortilla-chips)
 
 ---
 
 # 🥗 Master Nutritional Database
 
-> **Last Updated:** 2026-03-16 16:53
+> **Last Updated:** 2026-03-16 16:57
 
 > This file is auto-generated from `individual_food_data/`. Do not edit manually.
 
@@ -1328,5 +1331,79 @@
 | Potassium | 75mg | 2% | - |
 | Calcium | 10mg | 1% | - |
 | Iron | 2.25mg | 13% | - |
+
+---
+
+<a name="55-ace-ciabatta-piccolo-roll"></a>
+
+## 55 ACE Ciabatta Piccolo Roll
+
+| Nutrient | Per Serving | DV% | Component of |
+|----------|-------------|-----|---------------|
+| Serving Size | 1 roll (105 g) | - | - |
+| Calories | 250 | - | - |
+| Fat | 1.5 g | 2% | - |
+| Saturated Fat | 0.3 g | 2% | Fat |
+| Trans Fat | 0 g | - | Fat |
+| Carbohydrates | 50 g | 7% | - |
+| Fiber | 2 g | 7% | Carbohydrates |
+| Sugar | 0 g | 0% | Carbohydrates |
+| Protein | 9 g | - | - |
+| Cholesterol | 0 mg | - | - |
+| Sodium | 470 mg | 20% | - |
+| Potassium | 100 mg | 3% | - |
+| Calcium | 10 mg | 1% | - |
+| Iron | 3 mg | 17% | - |
+
+---
+
+<a name="56-dom-atlantic-smoked-salmon"></a>
+
+## 56 Dom Atlantic Smoked Salmon
+
+| Nutrient | Per Serving | DV% | Component of |
+|----------|-------------|-----|---------------|
+| Serving Size | 2 to 3 slices (55 g) | - | - |
+| Calories | 100 | - | - |
+| Fat | 4.5 g | 6% | - |
+| Saturated Fat | 0.5 g | 3% | Fat |
+| Trans Fat | 0 g | - | Fat |
+| Polyunsaturated Fat | 1.5 g | - | Fat |
+| Omega-6 | 0.7 g | - | Polyunsaturated Fat |
+| Omega-3 | 0.7 g | - | Polyunsaturated Fat |
+| Monounsaturated Fat | 2.5 g | - | Fat |
+| Carbohydrates | 1 g | 0% | - |
+| Fiber | 0 g | 0% | Carbohydrates |
+| Sugar | 0 g | 0% | Carbohydrates |
+| Protein | 13 g | - | - |
+| Cholesterol | 20 mg | - | - |
+| Sodium | 560 mg | 24% | - |
+| Potassium | 300 mg | 6% | - |
+| Calcium | 0 mg | 0% | - |
+| Iron | 0.2 mg | 1% | - |
+| Vitamin D | 3.5 µg | 18% | - |
+
+---
+
+<a name="57-great-value-tortilla-chips"></a>
+
+## 57 Great Value Tortilla Chips
+
+| Nutrient | Per Serving | DV% | Component of |
+|----------|-------------|-----|---------------|
+| Serving Size | about 15 chips (50 g) | - | - |
+| Calories | 250 | - | - |
+| Fat | 12 g | 16% | - |
+| Saturated Fat | 1 g | 5% | Fat |
+| Trans Fat | 0 g | - | Fat |
+| Carbohydrates | 33 g | - | - |
+| Fiber | 2 g | 7% | Carbohydrates |
+| Sugar | 0 g | 0% | Carbohydrates |
+| Protein | 3 g | - | - |
+| Cholesterol | 0 mg | - | - |
+| Sodium | 230 mg | 10% | - |
+| Potassium | 100 mg | 3% | - |
+| Calcium | 50 mg | 4% | - |
+| Iron | 0.5 mg | 3% | - |
 
 ---
