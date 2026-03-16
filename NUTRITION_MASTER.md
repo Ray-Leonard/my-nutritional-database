@@ -51,12 +51,15 @@
 - [49 Tomato Paste](#49-tomato-paste)
 - [50 Great Value Black Beans](#50-great-value-black-beans)
 - [51 Great Value Tomato Sauce](#51-great-value-tomato-sauce)
+- [52 Black Diamond Marble Cheese Stick](#52-black-diamond-marble-cheese-stick)
+- [53 Brown Sugar Smoked Ham](#53-brown-sugar-smoked-ham)
+- [54 ACE Bocata Ronda Artisan Style Roll](#54-ace-bocata-ronda-artisan-style-roll)
 
 ---
 
 # 🥗 Master Nutritional Database
 
-> **Last Updated:** 2026-03-15 02:06
+> **Last Updated:** 2026-03-16 16:53
 
 > This file is auto-generated from `individual_food_data/`. Do not edit manually.
 
@@ -1256,5 +1259,74 @@
 | Potassium | 600mg | 18% | - |
 | Calcium | 20mg | 2% | - |
 | Iron | 1.5mg | 8% | - |
+
+---
+
+<a name="52-black-diamond-marble-cheese-stick"></a>
+
+## 52 Black Diamond Marble Cheese Stick
+
+| Nutrient | Per Serving | DV% | Component of |
+|----------|-------------|-----|--------------|
+| Serving Size | 21g (1 stick) | - | - |
+| Calories | 80 | - | - |
+| Fat | 7g | 9% | - |
+| Saturated Fat | 4.5g | 24% | Fat |
+| Trans Fat | 0.2g | - | Fat |
+| Carbohydrates | 1g | - | - |
+| Fiber | 0g | 0% | Carbohydrates |
+| Sugar | 0g | 0% | Carbohydrates |
+| Protein | 5g | - | - |
+| Cholesterol | 20mg | - | - |
+| Sodium | 170mg | 7% | - |
+| Potassium | 20mg | 1% | - |
+| Calcium | 150mg | 12% | - |
+| Iron | 0mg | 0% | - |
+
+---
+
+<a name="53-brown-sugar-smoked-ham"></a>
+
+## 53 Brown Sugar Smoked Ham
+
+| Nutrient | Per Serving | DV% | Component of |
+|----------|-------------|-----|--------------|
+| Serving Size | 100g | - | - |
+| Calories | 110 | - | - |
+| Fat | 3.5g | 4% | - |
+| Saturated Fat | 1g | 6% | Fat |
+| Trans Fat | 0g | - | Fat |
+| Carbohydrates | 4g | - | - |
+| Fiber | 0g | 0% | Carbohydrates |
+| Sugar | 3g | 3% | Carbohydrates |
+| Protein | 17g | - | - |
+| Cholesterol | 45mg | - | - |
+| Sodium | 890mg | 39% | - |
+| Potassium | 400mg | 8% | - |
+| Calcium | 10mg | 1% | - |
+| Iron | 0.75mg | 4% | - |
+
+---
+
+<a name="54-ace-bocata-ronda-artisan-style-roll"></a>
+
+## 54 ACE Bocata Ronda Artisan Style Roll
+
+| Nutrient | Per Serving | DV% | Component of |
+|----------|-------------|-----|--------------|
+| Serving Size | 80g (1 roll) | - | - |
+| Calories | 230 | - | - |
+| Fat | 6g | 8% | - |
+| Saturated Fat | 1g | 5% | Fat |
+| Trans Fat | 0g | - | Fat |
+| Carbohydrates | 39g | - | - |
+| Fiber | 2g | 7% | Carbohydrates |
+| Sugar | 2g | 2% | Carbohydrates |
+| Protein | 6g | - | - |
+| Cholesterol | 0mg | - | - |
+| Sodium | 380mg | 17% | - |
+| Potassium | 75mg | 2% | - |
+| Calcium | 10mg | 1% | - |
+| Iron | 2.25mg | 13% | - |
 
 ---

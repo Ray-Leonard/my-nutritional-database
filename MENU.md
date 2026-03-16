@@ -21,13 +21,27 @@ Example:
 - Mixed Berries: 100g
 - Generic Cereal: 30g
 
-## Ciabatta Ham Sandwich (Walmart)
+## Our Finest Ciabatta Black Forest Ham Sandwich
 
 - 1 Walmart ciabatta bun
-- 15 grams hellmanns mayo full fat
+- 15g hellmanns mayo full fat
 - 1 slice great value havarti cheese
 - 15g Heinz Ketchup
 - 60g pillers black forest ham
+
+## ACE Ciabatta Smoked Ham Sandwich
+
+- 1 ACE ciabatta bun
+- 15g hellmanns mayo full fat
+- 1 slice great value havarti cheese
+- 15g Heinz Ketchup
+- 100g brown sugar smoked ham
+
+## ACE Bocata Smoked Salmon Snack Sandwich
+
+- 1 ACE Bocata roll
+- 15g Cream cheese
+- 40g smoked salmon
 
 ## PBJ with one slice of European Bread
 
