@@ -49,6 +49,16 @@ Example:
 - 15g peanut butter
 - 30g strawberry jam
 
+## PBJ with Dempster Bagle
+
+- 1 original Dempster Bagle
+- 10g peanut butter
+- 20g strawberry jam
+
+- 1 slice of Multigrain European Style Sliced Bread
+- 15g peanut butter
+- 30g strawberry jam
+
 ## Chili with Heinz Chili style beans
 
 - 225g lean ground beef (default is beef, user might substitute with extra lean ground chicken)
@@ -88,3 +98,21 @@ Example:
 - 15 oz. (equals to half a can) of Great Value diced tomatoes (local database)
 - 8 oz. (equals to half a can) of Great Value tomato sauce (local database)
 - 16 oz. (equals to 1 can) of Great Value black beans, drained and rinsed (local database)
+
+## 凉拌鸡丝
+
+**NOTE:**
+
+- This recipe is multi-serving, when the user tells you how many grams they had, calculate the total nutritious facts then scale it down accordingly.
+
+- 600g鸡胸肉
+- 2 green bell pepper
+- 1 purple onion
+- 40 g canola oil
+- 5 g sesame oil
+- 5 g 花椒油
+- 10 g cumin powder
+- 7 g salt
+- 5 g MSG
+- 40 g 香醋
+- 40 g soy sauce

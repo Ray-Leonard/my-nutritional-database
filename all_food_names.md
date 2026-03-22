@@ -55,3 +55,5 @@
 55: 55: ace_ciabatta_piccolo_roll (IMG_2389)
 56: 56: dom_atlantic_smoked_salmon (IMG_2390)
 57: 57: great_value_tortilla_chips (IMG_2396)
+58: protein_chips (IMG_2411)
+59: dempsters_original_bagel (IMG_2412)

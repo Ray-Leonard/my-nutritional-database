@@ -57,12 +57,14 @@
 - [55 ACE Ciabatta Piccolo Roll](#55-ace-ciabatta-piccolo-roll)
 - [56 Dom Atlantic Smoked Salmon](#56-dom-atlantic-smoked-salmon)
 - [57 Great Value Tortilla Chips](#57-great-value-tortilla-chips)
+- [58 Protein Chips](#58-protein-chips)
+- [59 Dempster's Original Bagel](#59-dempsters-original-bagel)
 
 ---
 
 # 🥗 Master Nutritional Database
 
-> **Last Updated:** 2026-03-16 16:57
+> **Last Updated:** 2026-03-22 17:50
 
 > This file is auto-generated from `individual_food_data/`. Do not edit manually.
 
@@ -1405,5 +1407,61 @@
 | Potassium | 100 mg | 3% | - |
 | Calcium | 50 mg | 4% | - |
 | Iron | 0.5 mg | 3% | - |
+
+---
+
+<a name="58-protein-chips"></a>
+
+## 58 Protein Chips
+
+| Nutrient | Per Serving | DV% | Component of |
+|----------|-------------|-----|--------------|
+| Serving Size | 32g (1 bag) | - | - |
+| Calories | 140 | - | - |
+| Fat | 5g | 7% | - |
+| Saturated Fat | 1g | 6% | Fat |
+| Trans Fat | 0.1g | - | Fat |
+| Carbohydrates | 5g | - | - |
+| Fiber | 1g | 4% | Carbohydrates |
+| Sugar | 1g | 1% | Carbohydrates |
+| Protein | 19g | - | - |
+| Cholesterol | 10mg | 13% | - |
+| Sodium | 300mg | 13% | - |
+| Potassium | 50mg | 2% | - |
+| Calcium | 175mg | 13% | - |
+| Iron | 0.3mg | - | - |
+
+---
+
+<a name="59-dempsters-original-bagel"></a>
+
+## 59 Dempster's Original Bagel
+
+| Nutrient | Per Serving | DV% | Component of |
+|----------|-------------|-----|--------------|
+| Serving Size | 75g (1 bagel) | - | - |
+| Calories | 200 | - | - |
+| Fat | 1g | 1% | - |
+| Saturated Fat | 0.3g | 2% | Fat |
+| Trans Fat | 0g | - | Fat |
+| Carbohydrates | 39g | - | - |
+| Fiber | 2g | 7% | Carbohydrates |
+| Sugar | 2g | 2% | Carbohydrates |
+| Protein | 7g | - | - |
+| Cholesterol | 0mg | - | - |
+| Sodium | 270mg | 12% | - |
+| Potassium | 50mg | 1% | - |
+| Calcium | 75mg | 6% | - |
+| Iron | 2.5mg | 14% | - |
+| Thiamine | 0.35mg | 29% | - |
+| Riboflavin | 0.25mg | 19% | - |
+| Niacin | 3.5mg | 22% | - |
+| Folate | 90µg DFE | 23% | - |
+| Phosphorus | 75mg | 6% | - |
+| Magnesium | 20mg | 5% | - |
+| Zinc | 0.5mg | 5% | - |
+| Selenium | 26µg | 47% | - |
+| Manganese | 0.35mg | 15% | - |
+| Molybdenum | 23µg | 51% | - |
 
 ---
