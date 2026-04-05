@@ -2,64 +2,15 @@
 
 ## Directory Structure
 
-- Project Root: `S:\_MyDocuments\健身\my-nutritional-database\`
 - Data Directory: `individual_food_data/`
 - Images Directory: `source_images/`
 
 ## Directory Purpose
 
 This is a data directory for storing and processing images of food nutrition labels.
-Images are stored in `source_images/` and named `IMG_*.jpg` or `IMG_*.jpeg`.
+Images are stored in `source_images/` and named `*.jpg` or `*.jpeg`.
 Processed data is stored in `individual_food_data/` as individual `.md` files named after the food (snake_case).
 `all_food_names.md` (in root) lists all unique food names.
-
-## Build/Lint/Test Commands
-
-No source code present. No build, lint, or test commands.
-
-- To verify data integrity: manual review or custom scripts.
-- No package.json, pyproject.toml, etc. found.
-
-## Single Test Run
-
-N/A - no tests.
-
-## Code Style Guidelines
-
-Although primarily data, any future scripts should follow:
-
-### General
-
-- Language: Python or JS preferred for processing.
-- EditorConfig: None found, use defaults.
-- Prettier/ESLint/Black/Pylint: None.
-
-### Imports
-
-- Group: standard lib, third-party, local.
-
-```
-import os
-import sys
-
-import numpy as np
-
-from .local import foo
-```
-
-### Formatting
-
-- 2 spaces indent.
-- Line length: 88 (black) or 100 (prettier).
-- Trailing commas.
-
-### Types
-
-- Use type hints.
-
-```
-def process_image(path: str) -> dict[str, float]:
-```
 
 ### Naming Conventions
 
@@ -146,8 +97,6 @@ No .cursorrules found.
 
 ## Additional Guidelines (repeated for length)
 
-- Always use absolute paths: S:\_MyDocuments\健身\MyCommonFoodNutritious\...
-- For bash tool: prefix with `powershell -Command "..."`
 - Extract nutrition per serving only.
 - Flag missing essentials.
 - Report to user if can't identify food name from image.
