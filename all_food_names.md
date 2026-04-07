@@ -64,4 +64,5 @@
 20260407_171100: hard_boiled_egg
 20260407_171200: greek_yogurt_fat_free_sugar_free
 20260407_171300: frozen_blueberries_80g
+20260407_171400: generic_cereal_32g
 |

@@ -65,13 +65,14 @@
 - [20260407_171100 Hard Boiled Egg (Large)](#20260407_171100-hard-boiled-egg-large)
 - [20260407_171200 Our Finest Greek Yogurt Fat Free Sugar Free](#20260407_171200-our-finest-greek-yogurt-fat-free-sugar-free)
 - [20260407_171300 Frozen Blueberries](#20260407_171300-frozen-blueberries)
+- [20260407_171400 Generic Cereal](#20260407_171400-generic-cereal)
 - [20260407_204849 豆沙烧饼](#20260407_204849-)
 
 ---
 
 # 🥗 Master Nutritional Database
 
-> **Last Updated:** 2026-04-07 21:18
+> **Last Updated:** 2026-04-07 21:20
 
 > This file is auto-generated from `individual_food_data/`. Do not edit manually.
 
@@ -1625,6 +1626,35 @@
 
 **Source:** Frozen blueberries bag — image processed 2026-04-07
 **Note:** Plain frozen blueberries, no added sugar. Ingredients: Blueberries only.
+
+---
+
+<a name="20260407_171400-generic-cereal"></a>
+
+## 20260407_171400 Generic Cereal
+
+|| Nutrient            | Per Serving     | DV%   | Component of    |
+|| ------------------- | --------------- | ----- | --------------- |
+|| Serving Size        | 32g (1 cup)    | -     | -               |
+|| Calories            | 120             | 6%    | -               |
+|| Fat                 | 0 g             | 0%    | -               |
+|| Saturated Fat       | 0 g             | 0%    | Fat             |
+|| Trans Fat           | 0 g             | -     | Fat             |
+|| Carbohydrate        | 29 g            | 11%   | -               |
+|| Fiber               | 4 g             | 14%   | Carbohydrate    |
+|| Sugars              | 9 g             | 9%    | Carbohydrate    |
+|| Protein             | 2 g             | 4%    | -               |
+|| Cholesterol         | 0 mg            | 0%    | -               |
+|| Sodium              | 190 mg          | 8%    | -               |
+|| Potassium           | 30 mg           | 1%    | -               |
+|| Calcium             | 0 mg            | 0%    | -               |
+|| Iron                | 4.5 mg          | 25%   | -               |
+|| Vitamin D           | 1 µg            | 5%    | -               |
+
+---
+
+**Source:** Kellogg's cereal — image processed 2026-04-07
+**Note:** Generic cereal, per 1 cup (32g) serving. Contains oats. Source of fiber and vitamin D.
 
 ---
 
