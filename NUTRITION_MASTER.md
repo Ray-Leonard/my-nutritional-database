@@ -61,12 +61,13 @@
 - [20260405_104158 Nagasaki Honey Castella Cake](#20260405_104158-nagasaki-honey-castella-cake)
 - [20260407_090339 Lao Zhengzhou Huimian Beef Flavor](#20260407_090339-lao-zhengzhou-huimian-beef-flavor)
 - [20260407_102914 梅菜猪肉馅饼](#20260407_102914-)
+- [20260407_103522 玉米猪肉饺子](#20260407_103522-)
 
 ---
 
 # 🥗 Master Nutritional Database
 
-> **Last Updated:** 2026-04-07 10:31
+> **Last Updated:** 2026-04-07 10:35
 
 > This file is auto-generated from `individual_food_data/`. Do not edit manually.
 
@@ -1511,5 +1512,28 @@
 | Potassium     | 112mg       | 2%  | -             |
 | Calcium       | 29mg        | 3%  | -             |
 | Iron          | 1.2mg       | 7%  | -             |
+
+---
+
+<a name="20260407_103522-"></a>
+
+## 20260407_103522 玉米猪肉饺子
+
+| Nutrient      | Per Serving | DV% | Component of  |
+| ------------- | ----------- | --- | ------------- |
+| Serving Size  | 90g (5个)   | -   | -             |
+| Calories      | 190         | 10% | -             |
+| Fat           | 6g          | 8%  | -             |
+| Saturated Fat | 2g          | 10% | Fat           |
+| Trans Fat     | 0g          | -   | Fat           |
+| Carbohydrates | 24g         | 9%  | -             |
+| Fiber         | 1g          | 7%  | Carbohydrates |
+| Sugar         | 3g          | 3%  | Carbohydrates |
+| Protein       | 9g          | 18% | -             |
+| Cholesterol   | 20mg        | 7%  | -             |
+| Sodium        | 320mg       | 14% | -             |
+| Potassium     | 130mg       | 3%  | -             |
+| Calcium       | 20mg        | 2%  | -             |
+| Iron          | 2mg         | 10% | -             |
 
 ---
