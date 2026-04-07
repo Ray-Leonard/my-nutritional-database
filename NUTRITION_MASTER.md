@@ -62,13 +62,15 @@
 - [20260407_090339 Lao Zhengzhou Huimian Beef Flavor](#20260407_090339-lao-zhengzhou-huimian-beef-flavor)
 - [20260407_102914 梅菜猪肉馅饼](#20260407_102914-)
 - [20260407_103522 玉米猪肉饺子](#20260407_103522-)
+- [20260407_171100 Hard Boiled Egg (Large)](#20260407_171100-hard-boiled-egg-large)
+- [20260407_171200 Our Finest Greek Yogurt 0% Plain](#20260407_171200-our-finest-greek-yogurt-0-plain)
 - [20260407_204849 豆沙烧饼](#20260407_204849-)
 
 ---
 
 # 🥗 Master Nutritional Database
 
-> **Last Updated:** 2026-04-07 20:49
+> **Last Updated:** 2026-04-07 21:14
 
 > This file is auto-generated from `individual_food_data/`. Do not edit manually.
 
@@ -1536,6 +1538,64 @@
 | Potassium     | 130mg       | 3%  | -             |
 | Calcium       | 20mg        | 2%  | -             |
 | Iron          | 2mg         | 10% | -             |
+
+---
+
+<a name="20260407_171100-hard-boiled-egg-large"></a>
+
+## 20260407_171100 Hard Boiled Egg (Large)
+
+|| Nutrient            | Per Serving     | DV%   | Component of    |
+|| ------------------- | --------------- | ----- | --------------- |
+|| Serving Size        | 1 large (50 g)  | -     | -               |
+|| Calories            | 78              | -     | -               |
+|| Fat                 | 5.3 g           | 7%    | -               |
+|| Saturated Fat       | 1.6 g           | 8%    | Fat             |
+|| Trans Fat           | 0 g             | -     | Fat             |
+|| Carbohydrates       | 0.6 g           | 0%    | -               |
+|| Fiber               | 0 g             | 0%    | Carbohydrates   |
+|| Sugars              | 0.6 g           | 1%    | Carbohydrates   |
+|| Protein             | 6.3 g           | 13%   | -               |
+|| Cholesterol         | 212 mg          | 71%   | -               |
+|| Sodium              | 62 mg           | 3%    | -               |
+|| Potassium           | 69 mg           | 1%    | -               |
+|| Calcium             | 25 mg           | 2%    | -               |
+|| Iron                | 0.6 mg          | 3%    | -               |
+|| Vitamin D           | 0.9 µg          | 5%    | -               |
+|| Selenium            | 15.4 µg         | 28%   | -               |
+
+---
+
+**Source:** USDA / FatSecret (large, hard-boiled, whole egg)
+**Note:** Data is for 1 large egg (≈50g). Egg yolk included.
+
+---
+
+<a name="20260407_171200-our-finest-greek-yogurt-0-plain"></a>
+
+## 20260407_171200 Our Finest Greek Yogurt 0% Plain
+
+|| Nutrient            | Per Serving     | DV%   | Component of    |
+|| ------------------- | --------------- | ----- | --------------- |
+|| Serving Size        | 115g (1/2 cup) | -     | -               |
+|| Calories            | 70              | 4%    | -               |
+|| Fat                 | 0 g             | 0%    | -               |
+|| Saturated Fat       | 0 g             | 0%    | Fat             |
+|| Trans Fat           | 0 g             | -     | Fat             |
+|| Carbohydrate        | 5 g             | 2%    | -               |
+|| Fiber               | 0 g             | 0%    | Carbohydrate    |
+|| Sugars              | 3 g             | 3%    | Carbohydrate    |
+|| Protein             | 11 g            | 22%   | -               |
+|| Cholesterol         | 5 mg            | 2%    | -               |
+|| Sodium              | 35 mg           | 2%    | -               |
+|| Potassium           | 175 mg          | 5%    | -               |
+|| Calcium             | 125 mg          | 10%   | -               |
+|| Iron                | 0 mg            | 0%    | -               |
+
+---
+
+**Source:** Walmart Our Finest Greek Yogurt 0% Plain — image processed 2026-04-07
+**Note:** 0% MF, plain, sugar-free. High protein per serving.
 
 ---
 
