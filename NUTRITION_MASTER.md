@@ -60,12 +60,13 @@
 - [20260405_104158 Eggplant Dip](#20260405_104158-eggplant-dip)
 - [20260405_104158 Nagasaki Honey Castella Cake](#20260405_104158-nagasaki-honey-castella-cake)
 - [20260407_090339 Lao Zhengzhou Huimian Beef Flavor](#20260407_090339-lao-zhengzhou-huimian-beef-flavor)
+- [20260407_102914 梅菜猪肉馅饼](#20260407_102914-)
 
 ---
 
 # 🥗 Master Nutritional Database
 
-> **Last Updated:** 2026-04-07 09:23
+> **Last Updated:** 2026-04-07 10:29
 
 > This file is auto-generated from `individual_food_data/`. Do not edit manually.
 
@@ -1487,5 +1488,28 @@
 | Potassium     | 0mg         | 0%  | -             |
 | Calcium       | 0mg         | 0%  | -             |
 | Iron          | 0mg         | 0%  | -             |
+
+---
+
+<a name="20260407_102914-"></a>
+
+## 20260407_102914 梅菜猪肉馅饼
+
+| Nutrient      | Per Serving | DV% | Component of  |
+| ------------- | ----------- | --- | ------------- |
+| Serving Size  | 115g        | -   | -             |
+| Calories      | 240         | 12% | -             |
+| Fat           | 6.5g        | 9%  | -             |
+| Saturated Fat | 1.9g        | 9%  | Fat           |
+| Trans Fat     | 0g          | -   | Fat           |
+| Carbohydrates | 36.1g       | 13% | -             |
+| Fiber         | 1.6g        | 6%  | Carbohydrates |
+| Sugar         | 0.4g        | 0%  | Carbohydrates |
+| Protein       | 7.6g        | 15% | -             |
+| Cholesterol   | 76mg        | 25% | -             |
+| Sodium        | 227mg       | 10% | -             |
+| Potassium     | 112mg       | 2%  | -             |
+| Calcium       | 29mg        | 3%  | -             |
+| Iron          | 1.2mg       | 7%  | -             |
 
 ---
