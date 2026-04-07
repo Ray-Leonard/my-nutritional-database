@@ -64,13 +64,14 @@
 - [20260407_103522 玉米猪肉饺子](#20260407_103522-)
 - [20260407_171100 Hard Boiled Egg (Large)](#20260407_171100-hard-boiled-egg-large)
 - [20260407_171200 Our Finest Greek Yogurt Fat Free Sugar Free](#20260407_171200-our-finest-greek-yogurt-fat-free-sugar-free)
+- [20260407_171300 Frozen Blueberries](#20260407_171300-frozen-blueberries)
 - [20260407_204849 豆沙烧饼](#20260407_204849-)
 
 ---
 
 # 🥗 Master Nutritional Database
 
-> **Last Updated:** 2026-04-07 21:17
+> **Last Updated:** 2026-04-07 21:18
 
 > This file is auto-generated from `individual_food_data/`. Do not edit manually.
 
@@ -1596,6 +1597,34 @@
 
 **Source:** Walmart Our Finest Greek Yogurt 0% Plain — image processed 2026-04-07
 **Note:** 0% MF, plain, sugar-free. High protein per serving.
+
+---
+
+<a name="20260407_171300-frozen-blueberries"></a>
+
+## 20260407_171300 Frozen Blueberries
+
+|| Nutrient            | Per Serving     | DV%   | Component of    |
+|| ------------------- | --------------- | ----- | --------------- |
+|| Serving Size        | 80g (1/2 cup)  | -     | -               |
+|| Calories            | 40              | 2%    | -               |
+|| Fat                 | 0.5 g           | 1%    | -               |
+|| Saturated Fat       | 0 g             | 0%    | Fat             |
+|| Trans Fat           | 0 g             | -     | Fat             |
+|| Carbohydrate        | 10 g            | 4%    | -               |
+|| Fiber               | 3 g             | 11%   | Carbohydrate    |
+|| Sugars              | 7 g             | 7%    | Carbohydrate    |
+|| Protein             | 0.3 g           | 1%    | -               |
+|| Cholesterol         | 0 mg            | 0%    | -               |
+|| Sodium              | 0 mg            | 0%    | -               |
+|| Potassium           | 40 mg           | 1%    | -               |
+|| Calcium             | 10 mg           | 1%    | -               |
+|| Iron                | 0.1 mg          | 1%    | -               |
+
+---
+
+**Source:** Frozen blueberries bag — image processed 2026-04-07
+**Note:** Plain frozen blueberries, no added sugar. Ingredients: Blueberries only.
 
 ---
 
