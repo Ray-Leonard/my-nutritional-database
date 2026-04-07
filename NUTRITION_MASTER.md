@@ -59,12 +59,13 @@
 - [20260405_104158 Haidilao Spicy Flavor Potato Noodle](#20260405_104158-haidilao-spicy-flavor-potato-noodle)
 - [20260405_104158 Eggplant Dip](#20260405_104158-eggplant-dip)
 - [20260405_104158 Nagasaki Honey Castella Cake](#20260405_104158-nagasaki-honey-castella-cake)
+- [20260407_090339 Lao Zhengzhou Huimian Beef Flavor](#20260407_090339-lao-zhengzhou-huimian-beef-flavor)
 
 ---
 
 # 🥗 Master Nutritional Database
 
-> **Last Updated:** 2026-04-06 01:01
+> **Last Updated:** 2026-04-07 09:23
 
 > This file is auto-generated from `individual_food_data/`. Do not edit manually.
 
@@ -1463,5 +1464,28 @@
 | Vitamin C | - | 0% | - |
 | Calcium | - | 0% | - |
 | Iron | - | 0% | - |
+
+---
+
+<a name="20260407_090339-lao-zhengzhou-huimian-beef-flavor"></a>
+
+## 20260407_090339 Lao Zhengzhou Huimian Beef Flavor
+
+| Nutrient      | Per Serving | DV% | Component of  |
+| ------------- | ----------- | --- | ------------- |
+| Serving Size  | 115g        | -   | -             |
+| Calories      | 440         | 22% | -             |
+| Fat           | 14g         | 17% | -             |
+| Saturated Fat | 0g          | 0%  | Fat           |
+| Trans Fat     | 0g          | -   | Fat           |
+| Carbohydrates | 67g         | 24% | -             |
+| Fiber         | 0g          | 0%  | Carbohydrates |
+| Sugar         | 0g          | 0%  | Carbohydrates |
+| Protein       | 14g         | 28% | -             |
+| Cholesterol   | 0mg         | 0%  | -             |
+| Sodium        | 2890mg      | 126%| -             |
+| Potassium     | 0mg         | 0%  | -             |
+| Calcium       | 0mg         | 0%  | -             |
+| Iron          | 0mg         | 0%  | -             |
 
 ---
