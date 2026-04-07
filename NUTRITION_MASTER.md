@@ -2,16 +2,14 @@
 
 - [20260405_104158 Clover Leaf Tomato Onion Flavor Can Tuna](#20260405_104158-clover-leaf-tomato-onion-flavor-can-tuna)
 - [20260405_104158 Clif Builders Chocolate Peanut Butter](#20260405_104158-clif-builders-chocolate-peanut-butter)
-- [20260405_104158 Mala Wangzi](#20260405_104158-mala-wangzi)
-- [20260405_104158 Milk Green Bean Cake Snack](#20260405_104158-milk-green-bean-cake-snack)
+- [20260405_104158 Haidilao Spicy Flavor Potato Noodle](#20260405_104158-haidilao-spicy-flavor-potato-noodle)
 - [20260405_104158 Great Value Mixed Beans](#20260405_104158-great-value-mixed-beans)
 - [20260405_104158 Cooked White Shrimp](#20260405_104158-cooked-white-shrimp)
 - [20260405_104158 Quaker Oat Single Bag](#20260405_104158-quaker-oat-single-bag)
 - [20260405_104158 Great Value Black Beans](#20260405_104158-great-value-black-beans)
-- [20260405_104158 Master Kong Beef Instant Noodles](#20260405_104158-master-kong-beef-instant-noodles)
 - [20260405_104158 Nongshim Shin Ramyun Black](#20260405_104158-nongshim-shin-ramyun-black)
+- [20260405_104158 Milk Flavor Shaqima](#20260405_104158-milk-flavor-shaqima)
 - [20260405_104158 Pillers Black Forest Ham 60g](#20260405_104158-pillers-black-forest-ham-60g)
-- [20260405_104158 Lanzhou Dry Noodles](#20260405_104158-lanzhou-dry-noodles)
 - [20260405_104158 Peanut Butter](#20260405_104158-peanut-butter)
 - [20260405_104158 Nongshim Shin Ramyun Tom Yum](#20260405_104158-nongshim-shin-ramyun-tom-yum)
 - [20260405_104158 ACE Ciabatta Piccolo Roll](#20260405_104158-ace-ciabatta-piccolo-roll)
@@ -24,31 +22,33 @@
 - [20260405_104158 Hellmanns Mayo Full Fat](#20260405_104158-hellmanns-mayo-full-fat)
 - [20260405_104158 Heinz Chili Style Beans](#20260405_104158-heinz-chili-style-beans)
 - [20260405_104158 Dom Atlantic Smoked Salmon](#20260405_104158-dom-atlantic-smoked-salmon)
-- [20260405_104158 Milk Flavor Shaqima](#20260405_104158-milk-flavor-shaqima)
 - [20260405_104158 Strawberry Jam](#20260405_104158-strawberry-jam)
-- [20260405_104158 Haidilao Tomato Flavor Potato Noodle](#20260405_104158-haidilao-tomato-flavor-potato-noodle)
+- [20260405_104158 Milk Green Bean Cake Snack](#20260405_104158-milk-green-bean-cake-snack)
 - [20260405_104158 Tomato Paste](#20260405_104158-tomato-paste)
 - [20260405_104158 Zatar Bread](#20260405_104158-zatar-bread)
 - [20260405_104158 Dempster's Original Bagel](#20260405_104158-dempsters-original-bagel)
 - [20260405_104158 Ritz Cheese Cracker Bits](#20260405_104158-ritz-cheese-cracker-bits)
+- [20260405_104158 Black Coconut Raisin Icecream](#20260405_104158-black-coconut-raisin-icecream)
 - [20260405_104158 Soba Noodles](#20260405_104158-soba-noodles)
+- [20260405_104158 Haidilao Tomato Flavor Potato Noodle](#20260405_104158-haidilao-tomato-flavor-potato-noodle)
 - [20260405_104158 Oat Chocolate Bar (26g)](#20260405_104158-oat-chocolate-bar-26g)
 - [20260405_104158 Zajiang Noodle Sauce (Sichuan Style)](#20260405_104158-zajiang-noodle-sauce-sichuan-style)
 - [20260405_104158 Great Value Everything Bagel](#20260405_104158-great-value-everything-bagel)
 - [20260405_104158 Six Star Whey Protein Plus Chocolate](#20260405_104158-six-star-whey-protein-plus-chocolate)
 - [20260405_104158 Chicken Nuggets Great Value](#20260405_104158-chicken-nuggets-great-value)
+- [20260405_104158 Nagasaki Honey Castella Cake](#20260405_104158-nagasaki-honey-castella-cake)
 - [20260405_104158 Pasta Tomato Sauce](#20260405_104158-pasta-tomato-sauce)
-- [20260405_104158 Leek Pork Dumplings](#20260405_104158-leek-pork-dumplings)
 - [20260405_104158 Pork and Vegetable Dumplings](#20260405_104158-pork-and-vegetable-dumplings)
+- [20260405_104158 Lanzhou Dry Noodles](#20260405_104158-lanzhou-dry-noodles)
 - [20260405_104158 Great Value Tortilla Chips](#20260405_104158-great-value-tortilla-chips)
 - [20260405_104158 Protein Chips](#20260405_104158-protein-chips)
 - [20260405_104158 Multigrain European Style Sliced Bread](#20260405_104158-multigrain-european-style-sliced-bread)
 - [20260405_104158 Great Value Can Tuna in Water](#20260405_104158-great-value-can-tuna-in-water)
 - [20260405_104158 Haorenjia Sesame Peanut Mixing Sauce](#20260405_104158-haorenjia-sesame-peanut-mixing-sauce)
 - [20260405_104158 Great Value Tomato Sauce](#20260405_104158-great-value-tomato-sauce)
-- [20260405_104158 Black Coconut Raisin Icecream](#20260405_104158-black-coconut-raisin-icecream)
 - [20260405_104158 Ciabatta Buns (Walmart)](#20260405_104158-ciabatta-buns-walmart)
 - [20260405_104158 Lotte Banana Flavor Choco Pie](#20260405_104158-lotte-banana-flavor-choco-pie)
+- [20260405_104158 Leek Pork Dumplings](#20260405_104158-leek-pork-dumplings)
 - [20260405_104158 Clover Leaf Can Tuna In Water](#20260405_104158-clover-leaf-can-tuna-in-water)
 - [20260405_104158 Great Value Havarti Cheese Slices](#20260405_104158-great-value-havarti-cheese-slices)
 - [20260405_104158 Brown Sugar Smoked Ham](#20260405_104158-brown-sugar-smoked-ham)
@@ -56,9 +56,9 @@
 - [20260405_104158 Breaded Fish Sticks](#20260405_104158-breaded-fish-sticks)
 - [20260405_104158 Lays Ketchup Chips](#20260405_104158-lays-ketchup-chips)
 - [20260405_104158 Clover Leaf Chili Can Tuna Small](#20260405_104158-clover-leaf-chili-can-tuna-small)
-- [20260405_104158 Haidilao Spicy Flavor Potato Noodle](#20260405_104158-haidilao-spicy-flavor-potato-noodle)
+- [20260405_104158 Mala Wangzi](#20260405_104158-mala-wangzi)
+- [20260405_104158 Master Kong Beef Instant Noodles](#20260405_104158-master-kong-beef-instant-noodles)
 - [20260405_104158 Eggplant Dip](#20260405_104158-eggplant-dip)
-- [20260405_104158 Nagasaki Honey Castella Cake](#20260405_104158-nagasaki-honey-castella-cake)
 - [20260407_090339 Lao Zhengzhou Huimian Beef Flavor](#20260407_090339-lao-zhengzhou-huimian-beef-flavor)
 - [20260407_102914 梅菜猪肉馅饼](#20260407_102914-)
 - [20260407_103522 玉米猪肉饺子](#20260407_103522-)
@@ -67,7 +67,7 @@
 
 # 🥗 Master Nutritional Database
 
-> **Last Updated:** 2026-04-07 10:35
+> **Last Updated:** 2026-04-07 10:45
 
 > This file is auto-generated from `individual_food_data/`. Do not edit manually.
 
@@ -115,49 +115,26 @@
 
 ---
 
-<a name="20260405_104158-mala-wangzi"></a>
+<a name="20260405_104158-haidilao-spicy-flavor-potato-noodle"></a>
 
-## 20260405_104158 Mala Wangzi
+## 20260405_104158 Haidilao Spicy Flavor Potato Noodle
 
-| Nutrient      | Per Serving | DV% | Component of |
-| ------------- | ----------- | --- | ------------ |
-| Serving Size  | 18g         | -   | -            |
-| Calories      | 85          | 4%  | -            |
-| Fat           | 4.9g        | 4%  | -            |
-| Saturated Fat | 0g          | 0%  | Fat          |
-| Trans Fat     | 0g          | -   | Fat          |
-| Carbohydrate  | 8.2g        | 0%  | -            |
-| Fiber         | 0g          | 0%  | Carbohydrate |
-| Sugar         | 2.0g        | 1%  | Carbohydrate |
-| Protein       | 1.5g        | -   | -            |
-| Cholesterol   | 0mg         | 0%  | -            |
-| Sodium        | 461.3mg     | 23% | -            |
-| Potassium     | 0mg         | 0%  | -            |
-| Calcium       | 0mg         | 0%  | -            |
-| Iron          | 0mg         | 0%  | -            |
-
----
-
-<a name="20260405_104158-milk-green-bean-cake-snack"></a>
-
-## 20260405_104158 Milk Green Bean Cake Snack
-
-| Nutrient | Per Serving | DV% | Component of |
-|----------|-------------|-----|---------------|
-| Serving Size | 40 g | - | - |
-| Calories | 140 | - | - |
-| Fat | 3.9 g | 5 % | - |
-| Saturated Fat | 1.8 g | 9 % | Fat |
-| Trans Fat | 0 g | - | Fat |
-| Carbohydrate | 23 g | - | - |
-| Fiber | 0 g | 0 % | Carbohydrate |
-| Sugars | 5 g | 5 % | Carbohydrate |
-| Protein | 3.2 g | - | - |
-| Cholesterol | 0 mg | - | - |
-| Sodium | 29 mg | 1 % | - |
-| Potassium | 0 mg | 0 % | - |
-| Calcium | 0 mg | 0 % | - |
-| Iron | 0 mg | 0 % | - |
+| Nutrient      | Per Serving | DV%  | Component of |
+| ------------- | ----------- | ---- | ------------ |
+| Serving Size  | 155 g       | -    | -            |
+| Calories      | 379         | -    | -            |
+| Fat           | 10 g        | 13%  | -            |
+| Saturated Fat | 0 g         | 0%   | Fat          |
+| Trans Fat     | 0 g         | -    | Fat          |
+| Carbohydrate  | 66 g        | -    | -            |
+| Fibre         | 0 g         | 0%   | Carbohydrate |
+| Sugars        | 2 g         | 2%   | Carbohydrate |
+| Protein       | 6 g         | -    | -            |
+| Cholesterol   | 0 mg        | -    | -            |
+| Sodium        | 4309 mg     | 187% | -            |
+| Potassium     | 0 mg        | 0%   | -            |
+| Calcium       | 0 mg        | 0%   | -            |
+| Iron          | 0 mg        | 0%   | -            |
 
 ---
 
@@ -256,29 +233,6 @@
 
 ---
 
-<a name="20260405_104158-master-kong-beef-instant-noodles"></a>
-
-## 20260405_104158 Master Kong Beef Instant Noodles
-
-| Nutrient      | Per Serving    | DV%  | Component of  |
-| ------------- | -------------- | ---- | ------------- |
-| Serving Size  | 1 pack (106 g) | -    | -             |
-| Calories      | 490            | -    | -             |
-| Fat           | 20 g           | 27%  | -             |
-| Saturated Fat | 10 g           | 50%  | Fat           |
-| Trans Fat     | 0 g            | -    | Fat           |
-| Carbohydrates | 67 g           | -    | -             |
-| Fiber         | 3 g            | 11%  | Carbohydrates |
-| Sugar         | 3 g            | 3%   | Carbohydrates |
-| Protein       | 11 g           | -    | -             |
-| Cholesterol   | 0 mg           | -    | -             |
-| Sodium        | 2340 mg        | 102% | -             |
-| Potassium     | 250 mg         | 7%   | -             |
-| Calcium       | 50 mg          | 4%   | -             |
-| Iron          | 3 mg           | 17%  | -             |
-
----
-
 <a name="20260405_104158-nongshim-shin-ramyun-black"></a>
 
 ## 20260405_104158 Nongshim Shin Ramyun Black
@@ -302,6 +256,29 @@
 
 ---
 
+<a name="20260405_104158-milk-flavor-shaqima"></a>
+
+## 20260405_104158 Milk Flavor Shaqima
+
+| Nutrient      | Per Serving    | DV% | Component of  |
+| ------------- | -------------- | --- | ------------- |
+| Serving Size  | 1 piece (20 g) | -   | -             |
+| Calories      | 100            | -   | -             |
+| Fat           | 6 g            | 8%  | -             |
+| Saturated Fat | 2 g            | 10% | Fat           |
+| Trans Fat     | 0 g            | -   | Fat           |
+| Carbohydrates | 11 g           | -   | -             |
+| Fibre         | 0 g            | 0%  | Carbohydrates |
+| Sugars        | 4 g            | 4%  | Carbohydrates |
+| Protein       | 1 g            | -   | -             |
+| Cholesterol   | 15 mg          | -   | -             |
+| Sodium        | 30 mg          | 1%  | -             |
+| Potassium     | 10 mg          | 0%  | -             |
+| Calcium       | 10 mg          | 1%  | -             |
+| Iron          | 0.2 mg         | 1%  | -             |
+
+---
+
 <a name="20260405_104158-pillers-black-forest-ham-60g"></a>
 
 ## 20260405_104158 Pillers Black Forest Ham 60g
@@ -322,29 +299,6 @@
 | Potassium | 175mg | 4% | - |
 | Calcium | 10mg | 1% | - |
 | Iron | 0.5mg | 3% | - |
-
----
-
-<a name="20260405_104158-lanzhou-dry-noodles"></a>
-
-## 20260405_104158 Lanzhou Dry Noodles
-
-| Nutrient      | Per Serving | DV% | Component of  |
-| ------------- | ----------- | --- | ------------- |
-| Serving Size  | 100g        | -   | -             |
-| Calories      | 360         | -   | -             |
-| Fat           | 1g          | 1%  | -             |
-| Saturated Fat | 0.5g        | 3%  | Fat           |
-| Trans Fat     | 0g          | -   | Fat           |
-| Carbohydrates | 75g         | -   | -             |
-| Fibre         | 5g          | 18% | Carbohydrates |
-| Sugars        | 2g          | 2%  | Carbohydrates |
-| Protein       | 12g         | -   | -             |
-| Cholesterol   | 0mg         | -   | -             |
-| Sodium        | 700mg       | 30% | -             |
-| Potassium     | 100mg       | 2%  | -             |
-| Calcium       | 10mg        | 1%  | -             |
-| Iron          | 4.5mg       | 25% | -             |
 
 ---
 
@@ -641,29 +595,6 @@
 
 ---
 
-<a name="20260405_104158-milk-flavor-shaqima"></a>
-
-## 20260405_104158 Milk Flavor Shaqima
-
-| Nutrient      | Per Serving    | DV% | Component of  |
-| ------------- | -------------- | --- | ------------- |
-| Serving Size  | 1 piece (20 g) | -   | -             |
-| Calories      | 100            | -   | -             |
-| Fat           | 6 g            | 8%  | -             |
-| Saturated Fat | 2 g            | 10% | Fat           |
-| Trans Fat     | 0 g            | -   | Fat           |
-| Carbohydrates | 11 g           | -   | -             |
-| Fibre         | 0 g            | 0%  | Carbohydrates |
-| Sugars        | 4 g            | 4%  | Carbohydrates |
-| Protein       | 1 g            | -   | -             |
-| Cholesterol   | 15 mg          | -   | -             |
-| Sodium        | 30 mg          | 1%  | -             |
-| Potassium     | 10 mg          | 0%  | -             |
-| Calcium       | 10 mg          | 1%  | -             |
-| Iron          | 0.2 mg         | 1%  | -             |
-
----
-
 <a name="20260405_104158-strawberry-jam"></a>
 
 ## 20260405_104158 Strawberry Jam
@@ -687,26 +618,26 @@
 
 ---
 
-<a name="20260405_104158-haidilao-tomato-flavor-potato-noodle"></a>
+<a name="20260405_104158-milk-green-bean-cake-snack"></a>
 
-## 20260405_104158 Haidilao Tomato Flavor Potato Noodle
+## 20260405_104158 Milk Green Bean Cake Snack
 
-| Nutrient      | Per Serving | DV% | Component of |
-| ------------- | ----------- | --- | ------------ |
-| Serving Size  | 173g        | -   | -            |
-| Calories      | 375         | -   | -            |
-| Fat           | 6g          | 8%  | -            |
-| Saturated Fat | 0g          | 0%  | Fat          |
-| Trans Fat     | 0g          | -   | Fat          |
-| Carbohydrate  | 77g         | -   | -            |
-| Fibre         | 0g          | 0%  | Carbohydrate |
-| Sugars        | 2g          | 2%  | Carbohydrate |
-| Protein       | 3g          | -   | -            |
-| Cholesterol   | 0mg         | -   | -            |
-| Sodium        | 1903mg      | 83% | -            |
-| Potassium     | 0mg         | 0%  | -            |
-| Calcium       | 0mg         | 0%  | -            |
-| Iron          | 0mg         | 0%  | -            |
+| Nutrient | Per Serving | DV% | Component of |
+|----------|-------------|-----|---------------|
+| Serving Size | 40 g | - | - |
+| Calories | 140 | - | - |
+| Fat | 3.9 g | 5 % | - |
+| Saturated Fat | 1.8 g | 9 % | Fat |
+| Trans Fat | 0 g | - | Fat |
+| Carbohydrate | 23 g | - | - |
+| Fiber | 0 g | 0 % | Carbohydrate |
+| Sugars | 5 g | 5 % | Carbohydrate |
+| Protein | 3.2 g | - | - |
+| Cholesterol | 0 mg | - | - |
+| Sodium | 29 mg | 1 % | - |
+| Potassium | 0 mg | 0 % | - |
+| Calcium | 0 mg | 0 % | - |
+| Iron | 0 mg | 0 % | - |
 
 ---
 
@@ -813,6 +744,29 @@
 
 ---
 
+<a name="20260405_104158-black-coconut-raisin-icecream"></a>
+
+## 20260405_104158 Black Coconut Raisin Icecream
+
+| Nutrient | Per Serving | DV% | Component of |
+|----------|-------------|-----|---------------|
+| Serving Size | 70g | - | - |
+| Calories | 150 | - | - |
+| Fat | 5g | 7% | - |
+| Saturated Fat | 4g | 20% | Fat |
+| Trans Fat | 0g | - | Fat |
+| Carbohydrates | 24g | - | - |
+| Fiber | 0.6g | 2% | Carbohydrates |
+| Sugar | 19g | 19% | Carbohydrates |
+| Protein | 2g | - | - |
+| Cholesterol | 0mg | - | - |
+| Sodium | 43mg | 2% | - |
+| Potassium | 332mg | 6% | - |
+| Calcium | 58mg | 4% | - |
+| Iron | 1mg | 6% | - |
+
+---
+
 <a name="20260405_104158-soba-noodles"></a>
 
 ## 20260405_104158 Soba Noodles
@@ -833,6 +787,29 @@
 | Potassium | 141 mg | 4 % | - |
 | Calcium | 14 mg | 1 % | - |
 | Iron | 1.0 mg | 6 % | - |
+
+---
+
+<a name="20260405_104158-haidilao-tomato-flavor-potato-noodle"></a>
+
+## 20260405_104158 Haidilao Tomato Flavor Potato Noodle
+
+| Nutrient      | Per Serving | DV% | Component of |
+| ------------- | ----------- | --- | ------------ |
+| Serving Size  | 173g        | -   | -            |
+| Calories      | 375         | -   | -            |
+| Fat           | 6g          | 8%  | -            |
+| Saturated Fat | 0g          | 0%  | Fat          |
+| Trans Fat     | 0g          | -   | Fat          |
+| Carbohydrate  | 77g         | -   | -            |
+| Fibre         | 0g          | 0%  | Carbohydrate |
+| Sugars        | 2g          | 2%  | Carbohydrate |
+| Protein       | 3g          | -   | -            |
+| Cholesterol   | 0mg         | -   | -            |
+| Sodium        | 1903mg      | 83% | -            |
+| Potassium     | 0mg         | 0%  | -            |
+| Calcium       | 0mg         | 0%  | -            |
+| Iron          | 0mg         | 0%  | -            |
 
 ---
 
@@ -955,6 +932,30 @@
 
 ---
 
+<a name="20260405_104158-nagasaki-honey-castella-cake"></a>
+
+## 20260405_104158 Nagasaki Honey Castella Cake
+
+| Nutrient | Per Serving (100g) | DV% | Component of |
+|----------|-------------------|-----|--------------|
+| Serving Size | 100g | - | - |
+| Calories | 344kcal | - | - |
+| Fat | 9.2g | 12% | - |
+| Saturated Fat | 0g | 0% | Fat |
+| Trans Fat | 0g | 0% | Fat |
+| Cholesterol | 0.2g | - | - |
+| Sodium | 62mg | 3% | - |
+| Carbohydrates | 58.1g | 21% | - |
+| Fibre | 14.53g | 52% | Carbohydrates |
+| Sugars | 43.58g | - | Carbohydrates |
+| Protein | 7.3g | 15% | - |
+| Vitamin A | - | 0% | - |
+| Vitamin C | - | 0% | - |
+| Calcium | - | 0% | - |
+| Iron | - | 0% | - |
+
+---
+
 <a name="20260405_104158-pasta-tomato-sauce"></a>
 
 ## 20260405_104158 Pasta Tomato Sauce
@@ -978,29 +979,6 @@
 
 ---
 
-<a name="20260405_104158-leek-pork-dumplings"></a>
-
-## 20260405_104158 Leek Pork Dumplings
-
-| Nutrient      | Per Serving     | DV% | Component of  |
-| ------------- | --------------- | --- | ------------- |
-| Serving Size  | 127g (1/3 pack) | -   | -             |
-| Calories      | 222             | -   | -             |
-| Fat           | 7g              | 9%  | -             |
-| Saturated Fat | 2g              | 11% | Fat           |
-| Trans Fat     | 0.1g            | -   | Fat           |
-| Carbohydrates | 28g             | -   | -             |
-| Fiber         | 1.3g            | 5%  | Carbohydrates |
-| Sugar         | 1.4g            | 1%  | Carbohydrates |
-| Protein       | 11g             | -   | -             |
-| Cholesterol   | 25mg            | -   | -             |
-| Sodium        | 585mg           | 25% | -             |
-| Potassium     | 158mg           | 5%  | -             |
-| Calcium       | 15mg            | 0%  | -             |
-| Iron          | 2.1mg           | 12% | -             |
-
----
-
 <a name="20260405_104158-pork-and-vegetable-dumplings"></a>
 
 ## 20260405_104158 Pork and Vegetable Dumplings
@@ -1021,6 +999,29 @@
 | Potassium     | 150 mg          | 4%  | -             |
 | Calcium       | 20 mg           | 2%  | -             |
 | Iron          | 1.5 mg          | 8%  | -             |
+
+---
+
+<a name="20260405_104158-lanzhou-dry-noodles"></a>
+
+## 20260405_104158 Lanzhou Dry Noodles
+
+| Nutrient      | Per Serving | DV% | Component of  |
+| ------------- | ----------- | --- | ------------- |
+| Serving Size  | 100g        | -   | -             |
+| Calories      | 360         | -   | -             |
+| Fat           | 1g          | 1%  | -             |
+| Saturated Fat | 0.5g        | 3%  | Fat           |
+| Trans Fat     | 0g          | -   | Fat           |
+| Carbohydrates | 75g         | -   | -             |
+| Fibre         | 5g          | 18% | Carbohydrates |
+| Sugars        | 2g          | 2%  | Carbohydrates |
+| Protein       | 12g         | -   | -             |
+| Cholesterol   | 0mg         | -   | -             |
+| Sodium        | 700mg       | 30% | -             |
+| Potassium     | 100mg       | 2%  | -             |
+| Calcium       | 10mg        | 1%  | -             |
+| Iron          | 4.5mg       | 25% | -             |
 
 ---
 
@@ -1162,29 +1163,6 @@
 
 ---
 
-<a name="20260405_104158-black-coconut-raisin-icecream"></a>
-
-## 20260405_104158 Black Coconut Raisin Icecream
-
-| Nutrient | Per Serving | DV% | Component of |
-|----------|-------------|-----|---------------|
-| Serving Size | 70g | - | - |
-| Calories | 150 | - | - |
-| Fat | 5g | 7% | - |
-| Saturated Fat | 4g | 20% | Fat |
-| Trans Fat | 0g | - | Fat |
-| Carbohydrates | 24g | - | - |
-| Fiber | 0.6g | 2% | Carbohydrates |
-| Sugar | 19g | 19% | Carbohydrates |
-| Protein | 2g | - | - |
-| Cholesterol | 0mg | - | - |
-| Sodium | 43mg | 2% | - |
-| Potassium | 332mg | 6% | - |
-| Calcium | 58mg | 4% | - |
-| Iron | 1mg | 6% | - |
-
----
-
 <a name="20260405_104158-ciabatta-buns-walmart"></a>
 
 ## 20260405_104158 Ciabatta Buns (Walmart)
@@ -1229,6 +1207,29 @@
 | Potassium | 70mg | 2% | - |
 | Calcium | 10mg | 1% | - |
 | Iron | 0.5mg | 4% | - |
+
+---
+
+<a name="20260405_104158-leek-pork-dumplings"></a>
+
+## 20260405_104158 Leek Pork Dumplings
+
+| Nutrient      | Per Serving     | DV% | Component of  |
+| ------------- | --------------- | --- | ------------- |
+| Serving Size  | 127g (1/3 pack) | -   | -             |
+| Calories      | 222             | -   | -             |
+| Fat           | 7g              | 9%  | -             |
+| Saturated Fat | 2g              | 11% | Fat           |
+| Trans Fat     | 0.1g            | -   | Fat           |
+| Carbohydrates | 28g             | -   | -             |
+| Fiber         | 1.3g            | 5%  | Carbohydrates |
+| Sugar         | 1.4g            | 1%  | Carbohydrates |
+| Protein       | 11g             | -   | -             |
+| Cholesterol   | 25mg            | -   | -             |
+| Sodium        | 585mg           | 25% | -             |
+| Potassium     | 158mg           | 5%  | -             |
+| Calcium       | 15mg            | 0%  | -             |
+| Iron          | 2.1mg           | 12% | -             |
 
 ---
 
@@ -1399,26 +1400,49 @@
 
 ---
 
-<a name="20260405_104158-haidilao-spicy-flavor-potato-noodle"></a>
+<a name="20260405_104158-mala-wangzi"></a>
 
-## 20260405_104158 Haidilao Spicy Flavor Potato Noodle
+## 20260405_104158 Mala Wangzi
 
-| Nutrient      | Per Serving | DV%  | Component of |
-| ------------- | ----------- | ---- | ------------ |
-| Serving Size  | 155 g       | -    | -            |
-| Calories      | 379         | -    | -            |
-| Fat           | 10 g        | 13%  | -            |
-| Saturated Fat | 0 g         | 0%   | Fat          |
-| Trans Fat     | 0 g         | -    | Fat          |
-| Carbohydrate  | 66 g        | -    | -            |
-| Fibre         | 0 g         | 0%   | Carbohydrate |
-| Sugars        | 2 g         | 2%   | Carbohydrate |
-| Protein       | 6 g         | -    | -            |
-| Cholesterol   | 0 mg        | -    | -            |
-| Sodium        | 4309 mg     | 187% | -            |
-| Potassium     | 0 mg        | 0%   | -            |
-| Calcium       | 0 mg        | 0%   | -            |
-| Iron          | 0 mg        | 0%   | -            |
+| Nutrient      | Per Serving | DV% | Component of |
+| ------------- | ----------- | --- | ------------ |
+| Serving Size  | 18g         | -   | -            |
+| Calories      | 85          | 4%  | -            |
+| Fat           | 4.9g        | 4%  | -            |
+| Saturated Fat | 0g          | 0%  | Fat          |
+| Trans Fat     | 0g          | -   | Fat          |
+| Carbohydrate  | 8.2g        | 0%  | -            |
+| Fiber         | 0g          | 0%  | Carbohydrate |
+| Sugar         | 2.0g        | 1%  | Carbohydrate |
+| Protein       | 1.5g        | -   | -            |
+| Cholesterol   | 0mg         | 0%  | -            |
+| Sodium        | 461.3mg     | 23% | -            |
+| Potassium     | 0mg         | 0%  | -            |
+| Calcium       | 0mg         | 0%  | -            |
+| Iron          | 0mg         | 0%  | -            |
+
+---
+
+<a name="20260405_104158-master-kong-beef-instant-noodles"></a>
+
+## 20260405_104158 Master Kong Beef Instant Noodles
+
+| Nutrient      | Per Serving    | DV%  | Component of  |
+| ------------- | -------------- | ---- | ------------- |
+| Serving Size  | 1 pack (106 g) | -    | -             |
+| Calories      | 490            | -    | -             |
+| Fat           | 20 g           | 27%  | -             |
+| Saturated Fat | 10 g           | 50%  | Fat           |
+| Trans Fat     | 0 g            | -    | Fat           |
+| Carbohydrates | 67 g           | -    | -             |
+| Fiber         | 3 g            | 11%  | Carbohydrates |
+| Sugar         | 3 g            | 3%   | Carbohydrates |
+| Protein       | 11 g           | -    | -             |
+| Cholesterol   | 0 mg           | -    | -             |
+| Sodium        | 2340 mg        | 102% | -             |
+| Potassium     | 250 mg         | 7%   | -             |
+| Calcium       | 50 mg          | 4%   | -             |
+| Iron          | 3 mg           | 17%  | -             |
 
 ---
 
@@ -1442,30 +1466,6 @@
 | Potassium     | 20 mg         | 0%  | -             |
 | Calcium       | 0 mg          | 0%  | -             |
 | Iron          | 0 mg          | 0%  | -             |
-
----
-
-<a name="20260405_104158-nagasaki-honey-castella-cake"></a>
-
-## 20260405_104158 Nagasaki Honey Castella Cake
-
-| Nutrient | Per Serving (100g) | DV% | Component of |
-|----------|-------------------|-----|--------------|
-| Serving Size | 100g | - | - |
-| Calories | 344kcal | - | - |
-| Fat | 9.2g | 12% | - |
-| Saturated Fat | 0g | 0% | Fat |
-| Trans Fat | 0g | 0% | Fat |
-| Cholesterol | 0.2g | - | - |
-| Sodium | 62mg | 3% | - |
-| Carbohydrates | 58.1g | 21% | - |
-| Fibre | 14.53g | 52% | Carbohydrates |
-| Sugars | 43.58g | - | Carbohydrates |
-| Protein | 7.3g | 15% | - |
-| Vitamin A | - | 0% | - |
-| Vitamin C | - | 0% | - |
-| Calcium | - | 0% | - |
-| Iron | - | 0% | - |
 
 ---
 
