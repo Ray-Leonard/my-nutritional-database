@@ -1,4 +1,4 @@
-# Our Finest Greek Yogurt 0% Plain
+# Our Finest Greek Yogurt Fat Free Sugar Free
 
 || Nutrient            | Per Serving     | DV%   | Component of    |
 || ------------------- | --------------- | ----- | --------------- |

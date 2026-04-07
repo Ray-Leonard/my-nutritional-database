@@ -63,14 +63,14 @@
 - [20260407_102914 梅菜猪肉馅饼](#20260407_102914-)
 - [20260407_103522 玉米猪肉饺子](#20260407_103522-)
 - [20260407_171100 Hard Boiled Egg (Large)](#20260407_171100-hard-boiled-egg-large)
-- [20260407_171200 Our Finest Greek Yogurt 0% Plain](#20260407_171200-our-finest-greek-yogurt-0-plain)
+- [20260407_171200 Our Finest Greek Yogurt Fat Free Sugar Free](#20260407_171200-our-finest-greek-yogurt-fat-free-sugar-free)
 - [20260407_204849 豆沙烧饼](#20260407_204849-)
 
 ---
 
 # 🥗 Master Nutritional Database
 
-> **Last Updated:** 2026-04-07 21:14
+> **Last Updated:** 2026-04-07 21:17
 
 > This file is auto-generated from `individual_food_data/`. Do not edit manually.
 
@@ -1571,9 +1571,9 @@
 
 ---
 
-<a name="20260407_171200-our-finest-greek-yogurt-0-plain"></a>
+<a name="20260407_171200-our-finest-greek-yogurt-fat-free-sugar-free"></a>
 
-## 20260407_171200 Our Finest Greek Yogurt 0% Plain
+## 20260407_171200 Our Finest Greek Yogurt Fat Free Sugar Free
 
 || Nutrient            | Per Serving     | DV%   | Component of    |
 || ------------------- | --------------- | ----- | --------------- |
