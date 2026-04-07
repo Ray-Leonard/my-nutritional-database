@@ -62,12 +62,13 @@
 - [20260407_090339 Lao Zhengzhou Huimian Beef Flavor](#20260407_090339-lao-zhengzhou-huimian-beef-flavor)
 - [20260407_102914 梅菜猪肉馅饼](#20260407_102914-)
 - [20260407_103522 玉米猪肉饺子](#20260407_103522-)
+- [20260407_204849 豆沙烧饼](#20260407_204849-)
 
 ---
 
 # 🥗 Master Nutritional Database
 
-> **Last Updated:** 2026-04-07 10:45
+> **Last Updated:** 2026-04-07 20:49
 
 > This file is auto-generated from `individual_food_data/`. Do not edit manually.
 
@@ -1535,5 +1536,30 @@
 | Potassium     | 130mg       | 3%  | -             |
 | Calcium       | 20mg        | 2%  | -             |
 | Iron          | 2mg         | 10% | -             |
+
+---
+
+<a name="20260407_204849-"></a>
+
+## 20260407_204849 豆沙烧饼
+
+| Nutrient      | Per Serving | DV% | Component of  |
+| ------------- | ----------- | --- | ------------- |
+| Serving Size  | 95g (1个)   | -   | -             |
+| Calories      | 270         | 14% | -             |
+| Fat           | 4g          | 5%  | -             |
+| Saturated Fat | 0.5g        | 3%  | Fat           |
+| Trans Fat     | 0g          | -   | Fat           |
+| Carbohydrates | 50g         | 18% | -             |
+| Fiber         | 3g          | 11% | Carbohydrates |
+| Sugar         | 5g          | -   | Carbohydrates |
+| Added Sugar   | 0g          | 0%  | -             |
+| Protein       | 7g          | 14% | -             |
+| Cholesterol   | 0mg         | 0%  | -             |
+| Sodium        | 60mg        | 3%  | -             |
+| Potassium     | 150mg       | 4%  | -             |
+| Calcium       | 50mg        | 4%  | -             |
+| Iron          | 2.5mg       | 15% | -             |
+| Vitamin D     | 0mcg        | 0%  | -             |
 
 ---
